@@ -1,0 +1,21 @@
+item_label,umls_preferred_name,bad_cui,proposed_cui
+Elementary school (grades 1-8),Elements,C0013879,C0683859
+With related children of the householder under 5 years only,Is an only child,C0029039,C3242655
+"Boat, RV, van, etc.",Residual volume,C0035190,C0578833
+"Bottled, tank, or LP gas",Spinal Puncture,C0037943,C0557706
+"Born in U.S. Island Areas, or born abroad of American parents",United States,C0041703,C1257890
+Naturalized U.S. citizen,United States,C0041703,C1277446
+Not a U.S. citizen,United States,C0041703,C2983714
+Population born outside the United States,United States,C0041703,C2983715
+VEHICLES AVAILABLE,Drug vehicle,C0042444,C3650743
+Census Division,Transection (procedure),C0152060,C2699158
+High school (grades 9-12),Severe (severity modifier),C0205082,C0036369
+WORLD REGION OF BIRTH OF FOREIGN BORN,Genital region,C0446509,C1287112
+YEAR HOUSEHOLDER MOVED INTO UNIT,Does move,C0578671,C0557202
+Mean travel time to work (minutes),Per Minute,C0702093,C1827460
+ACS DEMOGRAPHIC AND HOUSING ESTIMATES,Acute Chest Syndrome,C0742343,
+Census API FIPS 'in' clause,"alpha 1-proteinase inhibitor, human",C0795657,
+RESIDENCE 1 YEAR AGO,Resident (physician),C1320928,C2711485
+Entered 2010 or later,Enteral Route of Drug Administration,C1522196,C0020942
+Private wage and salary workers,United States Military enlisted E1,C4521534,C1306056
+With private health insurance,United States Military enlisted E1,C4521534,C2347682

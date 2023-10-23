@@ -1,0 +1,850 @@
+4,MMI,3.57,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-comma_integer-0]",TX,1/1,
+5,MMI,3.60,1.1,C4517491,[qnco],"[""1.1""-tx-1-""1 1""-comma_integer-0]",TX,"1/1,11/1",
+6,MMI,3.57,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-real_number-0]",TX,0/1,
+7,MMI,3.58,0.9,C4068881,[qnco],"[""0.9""-tx-1-""0 9""-real_number-0]",TX,"3/1,11/1",
+7,MMI,3.55,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,13/7,
+8,MMI,3.60,1.1,C4517491,[qnco],"[""1.1""-tx-1-""1 1""-real_number-0]",TX,"0/1,8/1",
+9,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+10,MMI,3.57,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,9/5,
+13,MMI,3.60,1.1,C4517491,[qnco],"[""1.1""-tx-1-""1 1""-comma_integer-0]",TX,"1/1,11/1",
+13,MMI,3.56,500,C3816747,[qnco],"[""500""-tx-1-""500""-comma_integer-0]",TX,3/3,
+14,MMI,3.58,0.15,C4068886,[qnco],"[""0.15""-tx-1-""15.0""-real_number-0]",TX,0/4,
+14,MMI,3.58,0.9,C4068881,[qnco],"[""0.9""-tx-1-""0 9""-real_number-0]",TX,"3/1,11/1",
+14,MMI,3.55,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,13/7,
+15,MMI,3.57,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-real_number-0]",TX,0/1,
+16,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+17,MMI,3.57,64,C4517839,[qnco],"[""64""-tx-1-""64""-integer-0]",TX,6/2,
+17,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+18,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,3/5,
+19,MMI,3.64,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedroom""-noun-0]",TX,2/7,
+19,MMI,3.48,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-integer-0]",TX,0/1,
+20,MMI,3.62,1/2,C0580272,[inpr],"[""1/2""-tx-1-""1 2""-integer-0]",TX,"0/1,5/1",
+20,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,7/5,
+21,MMI,3.48,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-integer-0]",TX,0/1,
+22,MMI,3.59,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""unit""-noun-0]",TX,2/4,
+23,MMI,3.59,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""unit""-noun-0]",TX,2/4,
+24,MMI,3.59,Vehicle (Transportation),C0348005,[mnob],"[""Vehicle""-tx-1-""vehicle""-noun-0]",TX,2/7,
+24,MMI,3.45,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""available""-adj-0]",TX,10/9,
+24,MMI,3.45,Greater than one,C4280965,[qnco],"[""Greater than one""-tx-1-""1""-integer-0]",TX,0/1,
+25,MMI,3.57,200,C4319558,[qnco],"[""200""-tx-1-""200""-comma_integer-0]",TX,1/3,
+26,MMI,3.56,200,C4319558,[qnco],"[""200""-tx-1-""200""-comma_integer-0]",TX,1/3,
+27,MMI,3.60,2.2,C4517629,[qnco],"[""2.2""-tx-1-""2 2""-comma_integer-0]",TX,"1/1,11/1",
+28,MMI,3.58,0.9,C4068881,[qnco],"[""0.9""-tx-1-""0 9""-real_number-0]",TX,"3/1,11/1",
+28,MMI,3.55,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,13/7,
+29,MMI,3.57,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,11/5,
+30,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+31,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,3/5,
+33,MMI,3.60,2.2,C4517629,[qnco],"[""2.2""-tx-1-""2 2""-comma_integer-0]",TX,"1/1,11/1",
+33,MMI,3.56,500,C3816747,[qnco],"[""500""-tx-1-""500""-comma_integer-0]",TX,3/3,
+34,MMI,3.58,0.25,C4517443,[qnco],"[""0.25""-tx-1-""25.0""-real_number-0]",TX,0/4,
+34,MMI,3.58,0.9,C4068881,[qnco],"[""0.9""-tx-1-""0 9""-real_number-0]",TX,"3/1,11/1",
+34,MMI,3.55,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,13/7,
+36,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+37,MMI,3.60,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedrooms""-noun-0]",TX,2/8,
+37,MMI,3.48,+2,C0740116,[qnco],"[""+2""-tx-1-""2""-integer-0]",TX,0/1,
+38,MMI,3.48,+2,C0740116,[qnco],"[""+2""-tx-1-""2""-integer-0]",TX,0/1,
+39,MMI,3.64,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,2/5,
+39,MMI,3.48,+2,C0740116,[qnco],"[""+2""-tx-1-""2""-integer-0]",TX,0/1,
+40,MMI,3.59,Drug vehicle,C0042444,[bodm],"[""Drug vehicle""-tx-1-""vehicles""-noun-0]",TX,2/8,
+40,MMI,3.45,+2,C0740116,[qnco],"[""+2""-tx-1-""2""-integer-0]",TX,0/1,
+40,MMI,3.45,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""available""-adj-0]",TX,11/9,
+41,MMI,3.56,300,C4319604,[qnco],"[""300""-tx-1-""300""-comma_integer-0]",TX,1/3,
+42,MMI,3.57,<3 (qualifier value),C0439086,[qnco],"[""<3 (qualifier value)""-tx-1-""3""-comma_integer-0]",TX,1/1,
+43,MMI,3.58,0.9,C4068881,[qnco],"[""0.9""-tx-1-""0 9""-real_number-0]",TX,"3/1,11/1",
+43,MMI,3.55,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,13/7,
+44,MMI,3.56,35,C4319605,[qnco],"[""35""-tx-1-""35""-comma_integer-0]",TX,1/2,
+45,MMI,3.56,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,5/7,
+45,MMI,3.46,0.35,C4517451,[qnco],"[""0.35""-tx-1-""35.0""-real_number-0]",TX,0/4,
+46,MMI,3.57,35,C4319605,[qnco],"[""35""-tx-1-""35""-integer-0]",TX,0/2,
+46,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+47,MMI,3.60,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedrooms""-noun-0]",TX,2/8,
+47,MMI,3.48,<3 (qualifier value),C0439086,[qnco],"[""<3 (qualifier value)""-tx-1-""3""-integer-0]",TX,0/1,
+48,MMI,3.62,3/4,C0442757,[fndg],"[""3/4""-tx-1-""3 4""-integer-0]",TX,"0/1,5/1",
+48,MMI,3.57,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,7/5,
+49,MMI,3.62,3/4,C0442757,[fndg],"[""3/4""-tx-1-""3 4""-integer-0]",TX,"0/1,5/1",
+49,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,7/5,
+50,MMI,3.56,<3 (qualifier value),C0439086,[qnco],"[""<3 (qualifier value)""-tx-1-""3""-integer-0]",TX,0/1,
+50,MMI,3.56,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""available""-adj-0]",TX,19/9,
+50,MMI,3.56,Drug vehicle,C0042444,[bodm],"[""Drug vehicle""-tx-1-""vehicles""-noun-0]",TX,10/8,
+51,MMI,3.48,<3 (qualifier value),C0439086,[qnco],"[""<3 (qualifier value)""-tx-1-""3""-integer-0]",TX,0/1,
+52,MMI,3.59,400,C3816746,[qnco],"[""400""-tx-1-""400""-integer-0]",TX,1/3,
+53,MMI,3.57,54,C4517807,[qnco],"[""54""-tx-1-""54""-integer-0]",TX,6/2,
+53,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+54,MMI,3.60,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedrooms""-noun-0]",TX,2/8,
+56,MMI,3.56,500,C3816747,[qnco],"[""500""-tx-1-""500""-comma_integer-0]",TX,1/3,
+57,MMI,3.56,74,C4517867,[qnco],"[""74""-tx-1-""74""-comma_integer-0]",TX,12/2,
+58,MMI,3.56,99,C3828813,[qnco],"[""99""-tx-1-""99""-comma_integer-0]",TX,12/2,
+59,MMI,3.59,500,C3816747,[qnco],"[""500""-tx-1-""500""-integer-0]",TX,1/3,
+60,MMI,3.57,55,C0450382,[inpr],"[""55""-tx-1-""55""-integer-0]",TX,0/2,
+60,MMI,3.57,59,C3830128,[qnco],"[""59""-tx-1-""59""-integer-0]",TX,6/2,
+60,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+61,MMI,3.57,>5,C0439084,[qnco],"["">5""-tx-1-""5""-integer-0]",TX,0/1,
+61,MMI,3.54,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedrooms""-noun-0]",TX,10/8,
+62,MMI,3.57,>5,C0439084,[qnco],"["">5""-tx-1-""5""-integer-0]",TX,0/1,
+62,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,10/5,
+63,MMI,3.48,>5,C0439084,[qnco],"["">5""-tx-1-""5""-integer-0]",TX,0/1,
+64,MMI,3.62,9.5,C4517899,[qnco],"[""9.5""-tx-1-""5 9""-integer-0]",TX,"0/1,5/1",
+64,MMI,3.57,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,7/5,
+65,MMI,3.62,9.5,C4517899,[qnco],"[""9.5""-tx-1-""5 9""-integer-0]",TX,"0/1,5/1",
+65,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,7/5,
+66,MMI,3.59,600,C3816748,[qnco],"[""600""-tx-1-""600""-integer-0]",TX,1/3,
+67,MMI,3.57,64,C4517839,[qnco],"[""64""-tx-1-""64""-integer-0]",TX,6/2,
+67,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+68,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,3/5,
+68,MMI,3.44,62,C4517835,[qnco],"[""62""-tx-1-""62""-integer-0]",TX,0/2,
+69,MMI,3.57,65,C0450385,[inpr],"[""65""-tx-1-""65""-integer-0]",TX,0/2,
+69,MMI,3.57,74,C4517867,[qnco],"[""74""-tx-1-""74""-integer-0]",TX,6/2,
+69,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+70,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,3/5,
+70,MMI,3.44,65,C0450385,[inpr],"[""65""-tx-1-""65""-integer-0]",TX,0/2,
+72,MMI,3.56,75,C4319621,[qnco],"[""75""-tx-1-""75""-comma_integer-0]",TX,1/2,
+72,MMI,3.56,99,C3828813,[qnco],"[""99""-tx-1-""99""-comma_integer-0]",TX,12/2,
+73,MMI,3.57,75,C4319621,[qnco],"[""75""-tx-1-""75""-integer-0]",TX,0/2,
+73,MMI,3.57,84,C4319623,[qnco],"[""84""-tx-1-""84""-integer-0]",TX,6/2,
+73,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+75,MMI,3.59,800,C3844106,[qnco],"[""800""-tx-1-""800""-integer-0]",TX,1/3,
+76,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,3/5,
+76,MMI,3.44,85,C4517892,[qnco],"[""85""-tx-1-""85""-integer-0]",TX,0/2,
+79,MMI,3.55,Histopathologic Grade,C0919553,[clas],"[""Histologic grade""-tx-1-""grade""-noun-0]",TX,12/5,
+81,MMI,22.48,Acute Chest Syndrome,C0742343,[dsyn],"[""Acute chest syndrome""-tx-1-""ACS""-noun-0]",TX,0/3,C08.381.074;C08.618.009;C15.378.071.141.150.150.219;C15.378.420.155.219;C16.320.070.150.219;C16.320.365.155.219
+81,MMI,19.20,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""HOUSING""-adj-0]",TX,20/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+81,MMI,3.43,Estimated,C0750572,[qnco],"[""Estimated""-tx-1-""ESTIMATES""-noun-0]",TX,28/9,
+82,MMI,8.34,Africa,C0001737,[geoa],"[""Africa""-tx-1-""Africa""-noun-0]",TX,0/6,Z01.058
+83,MMI,3.42,Hunting,C4255216,[dora],"[""Hunting""-tx-1-""hunting""-noun-0]",TX,35/7,
+83,MMI,3.40,fish - non-drug agent,C0452961,[food],"[""Fish""-tx-1-""fishing""-verb-0]",TX,23/7,
+87,MMI,19.21,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,0/6,Z01.107.567.875.580.100
+87,MMI,3.44,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,7/6,
+87,MMI,3.44,regional,C0205147,[spco],"[""Regional""-tx-1-""Regional""-adj-0]",TX,14/8,
+88,MMI,13.10,Family,C0015576,[famg],"[""Family""-tx-1-""families""-noun-0]",TX,4/8,F01.829.263;I01.880.853.150
+89,MMI,19.32,parent,C0030551,[famg],"[""Parent, NOS""-tx-1-""parents""-noun-0]",TX,4/7,F01.829.263.500.320;I01.880.853.150.500.340;M01.620
+89,MMI,12.89,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,15/6,F01.829.263;I01.880.853.150
+89,MMI,6.58,Work,C0043227,[ocac],"[""Working""-tx-1-""labor""-noun-0]",TX,25/5,I03.946
+89,MMI,3.42,Mechanical force,C0563538,[phpr],"[""Mechanical force""-tx-1-""force""-noun-0]",TX,31/5,
+90,MMI,3.64,Persons,C0027361,[popg],"[""Person""-tx-1-""people""-noun-0]",TX,4/6,M01
+92,MMI,19.20,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,20/6,Z01.107.567.875.580.100
+92,MMI,16.22,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,0/15,M01.686.508.150.600
+92,MMI,3.43,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,27/6,
+93,MMI,19.20,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,20/6,Z01.107.567.875.580.100
+93,MMI,16.21,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,0/15,M01.686.508.150.600
+93,MMI,3.43,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,27/6,
+93,MMI,3.43,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,34/5,
+94,MMI,19.19,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,21/6,Z01.107.567.875.580.100
+94,MMI,16.05,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,0/15,M01.686.508.150.600
+94,MMI,3.54,Landing,C0557668,[mnob],"[""Landing""-tx-1-""Land""-noun-0]",TX,54/4,
+94,MMI,3.43,Hawaiian population,C0337920,[popg],"[""Hawaiians""-tx-1-""Native Hawaiian""-noun-0]",TX,"28/6,40/8",
+94,MMI,3.42,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,16/4,
+94,MMI,3.42,Home environment,C0442519,[spco],"[""Home environment""-tx-1-""Home""-noun-0]",TX,49/4,
+95,MMI,16.05,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,0/15,M01.686.508.150.600
+95,MMI,3.54,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,16/4,
+95,MMI,3.42,Hawaiian population,C0337920,[popg],"[""Hawaiians""-tx-1-""Hawaiian""-noun-0]",TX,55/8,
+95,MMI,3.42,Home environment,C0442519,[spco],"[""Home environment""-tx-1-""Home""-noun-0]",TX,64/4,
+95,MMI,3.42,Landing,C0557668,[mnob],"[""Landing""-tx-1-""Land""-noun-0]",TX,44/4,
+95,MMI,3.42,Singular,C0205171,[qnco],"[""Singular""-tx-1-""Only""-adv-0]",TX,49/4,
+96,MMI,16.08,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,0/15,M01.686.508.150.600
+96,MMI,3.56,Subdivision of (attribute),C1273519,[fndg],"[""Subdivision of (attribute)""-tx-1-""Subdivision""-noun-0]",TX,23/11,
+99,MMI,14.64,arab ethnic group,C0282540,[popg],"[""Arabs""-tx-1-""Arab""-noun-0]",TX,0/4,M01.686.754.167
+100,MMI,5.18,Armed forces,C0402580,[orgt],"[""Armed forces""-tx-1-""Armed Forces""-noun-0]",TX,0/12,
+101,MMI,9.73,Food,C0016452,[food],"[""Foods""-tx-1-""food""-noun-0]",TX,59/4,G07.203.300;J02.500
+101,MMI,6.57,Visual Accommodation,C0000936,[ortf],"[""Visual accommodation""-tx-1-""accommodation""-noun-0]",TX,41/13,G14.010
+101,MMI,3.42,Services,C0557854,[ocac],"[""Services""-tx-1-""services""-noun-0]",TX,64/8,
+102,MMI,8.34,Asia,C0003980,[geoa],"[""Asia""-tx-1-""Asia""-noun-0]",TX,0/4,Z01.252
+103,MMI,14.64,Asians,C0078988,[popg],"[""Oriental""-tx-1-""Asian""-noun-0]",TX,0/5,M01.686.508.200
+104,MMI,12.94,Asians,C0078988,[popg],"[""Oriental""-tx-1-""Asian""-adj-0]",TX,0/5,M01.686.508.200
+104,MMI,3.64,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,6/5,
+105,MMI,13.02,Asians,C0078988,[popg],"[""Oriental""-tx-1-""Asian""-noun-0]",TX,0/5,M01.686.508.200
+105,MMI,12.89,Languages,C0023008,[lang],"[""Language NOS""-tx-1-""languages""-noun-0]",TX,27/9,F01.145.209.399;L01.559
+106,MMI,5.18,Asian Indian,C1524069,[popg],"[""Indian""-tx-1-""Asian Indian""-noun-0]",TX,0/12,
+107,MMI,3.64,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""degree""-noun-0]",TX,12/6,
+108,MMI,13.05,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,8/6,F01.829.263;I01.880.853.150
+108,MMI,3.59,size,C0456389,[spco],"[""Size""-tx-1-""size""-noun-0]",TX,15/4,
+109,MMI,3.59,size,C0456389,[spco],"[""Size""-tx-1-""size""-noun-0]",TX,18/4,
+110,MMI,3.55,size,C0456389,[spco],"[""Size""-tx-1-""size""-noun-0]",TX,18/4,
+110,MMI,3.42,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""unit""-noun-0]",TX,41/4,
+111,MMI,3.55,size,C0456389,[spco],"[""Size""-tx-1-""size""-noun-0]",TX,18/4,
+111,MMI,3.42,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""unit""-noun-0]",TX,42/4,
+112,MMI,3.64,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""degree""-noun-0]",TX,11/6,
+112,MMI,3.48,Bachelor,C0337600,[fndg],"[""Bachelor""-tx-1-""Bachelor's""-noun-0]",TX,0/10,
+113,MMI,3.98,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""BEDROOMS""-noun-0]",TX,0/8,
+114,MMI,16.33,African American,C0085756,[popg],"[""African American""-tx-1-""Black African American""-noun-0]",TX,"0/5,9/16",M01.686.508.100.100;M01.686.754.100
+115,MMI,16.27,African American,C0085756,[popg],"[""African American""-tx-1-""Black African American""-noun-0]",TX,"0/5,9/16",M01.686.508.100.100;M01.686.754.100
+115,MMI,3.43,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,26/5,
+116,MMI,19.19,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,50/6,Z01.107.567.875.580.100
+116,MMI,16.19,African American,C0085756,[popg],"[""African American""-tx-1-""Black African American""-noun-0]",TX,"0/5,9/16",M01.686.508.100.100;M01.686.754.100
+116,MMI,3.42,Asian Indian,C1524069,[popg],"[""Indian""-tx-1-""Indian""-noun-0]",TX,39/6,
+116,MMI,3.42,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,57/6,
+117,MMI,25.52,Residual volume,C0035190,[clna],"[""Residual volume""-tx-1-""RV""-noun-0]",TX,6/2,E01.370.386.700.485.750.275.650;G09.772.850.390.820
+117,MMI,3.57,Boat (physical object),C0085910,[mnob],"[""Boat (physical object)""-tx-1-""Boat""-noun-0]",TX,0/4,
+117,MMI,3.44,Van (physical object),C0557775,[mnob],"[""Van (physical object)""-tx-1-""van""-noun-0]",TX,10/3,
+118,MMI,3.64,Born in Puerto Rico,C1277534,[fndg],"[""Born in Puerto Rico""-tx-1-""Born in Puerto Rico""-noun-0]",TX,0/19,
+118,MMI,3.54,Geographic state,C1301808,[geoa],"[""State""-tx-1-""States""-noun-0]",TX,34/6,
+119,MMI,19.19,parent,C0030551,[famg],"[""Parent, NOS""-tx-2-""parent""-noun-0]",TX,67/6,F01.829.263.500.320;I01.880.853.150.500.340;M01.620
+119,MMI,16.04,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-2-""born""-adj-0]",TX,43/4,G08.686.784.769.490
+119,MMI,13.05,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Born U""-adj-0]",TX,"0/4,21/1",Z01.107.567.875
+119,MMI,12.88,Islands,C0022130,[geoa],"[""Island""-tx-2-""Island""-noun-0]",TX,26/6,G16.500.275.505;N06.230.295;Z01.639
+119,MMI,3.72,Born in Puerto Rico,C1277534,[fndg],"[""Born in Puerto Rico""-tx-1-""Born in Puerto Rico""-noun-0]",TX,0/19,
+119,MMI,3.54,Area,C0205146,[spco],"[""Area""-tx-2-""areas""-noun-0]",TX,33/5,
+120,MMI,16.18,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""Born""-verb-0]",TX,0/4,G08.686.784.769.490
+120,MMI,13.10,United States,C0041703,[geoa],"[""United States of America""-tx-1-""United States""-noun-0]",TX,8/13,Z01.107.567.875
+121,MMI,32.39,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-2-""born""-adj-0,""Childbirth""-tx-1-""Born""-verb-0]",TX,30/4;0/4,G08.686.784.769.490
+121,MMI,19.19,parent,C0030551,[famg],"[""Parent, NOS""-tx-2-""parents""-noun-0]",TX,54/7,F01.829.263.500.320;I01.880.853.150.500.340;M01.620
+121,MMI,13.10,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Born U""-adj-0]",TX,"0/4,8/1",Z01.107.567.875
+121,MMI,12.88,Islands,C0022130,[geoa],"[""Island""-tx-2-""Island""-noun-0]",TX,13/6,G16.500.275.505;N06.230.295;Z01.639
+121,MMI,3.54,Area,C0205146,[spco],"[""Area""-tx-2-""Areas""-noun-0]",TX,20/5,
+122,MMI,19.33,Spinal Puncture,C0037943,[hlca],"[""Spinal puncture""-tx-1-""LP""-noun-0]",TX,18/2,E01.370.225.998.054.790;E01.370.376.700;E02.800.779;E04.074.790;E04.665.700;E05.200.998.054.790
+122,MMI,6.71,Gases,C0017110,[chvs],"[""Gas, NOS""-tx-1-""gas""-noun-0]",TX,21/3,D01.362
+122,MMI,3.56,Tank - military vehicle,C0336821,[mnob],"[""Tank - military vehicle""-tx-1-""tank""-noun-0]",TX,9/4,
+122,MMI,3.53,"Bottle, device",C0179376,[mnob],"[""Bottle, device""-tx-1-""Bottled""-verb-0]",TX,0/7,
+123,MMI,3.57,Early,C1279919,[tmco],"[""Early""-tx-1-""earlier""-adj-0]",TX,14/7,
+130,MMI,3.57,2000,C0470277,[qnco],"[""2000""-tx-1-""2000""-integer-0]",TX,6/4,
+132,MMI,3.57,Late,C0205087,[tmco],"[""Late""-tx-1-""later""-adv-0]",TX,14/5,
+133,MMI,13.02,Automobiles,C0004381,[mnob],"[""Automobile""-tx-1-""Car""-noun-0]",TX,0/3,J01.937.500.100
+133,MMI,3.43,Truck (physical object),C0557776,[mnob],"[""Truck""-tx-1-""truck""-noun-0]",TX,5/5,
+133,MMI,3.43,Van (physical object),C0557775,[mnob],"[""Van (physical object)""-tx-1-""van""-noun-0]",TX,15/3,
+134,MMI,13.01,Automobiles,C0004381,[mnob],"[""Automobile""-tx-1-""Car""-noun-0]",TX,0/3,J01.937.500.100
+134,MMI,3.43,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,28/5,
+134,MMI,3.43,Truck (physical object),C0557776,[mnob],"[""Truck""-tx-1-""truck""-noun-0]",TX,5/5,
+134,MMI,3.43,Van (physical object),C0557775,[mnob],"[""Van (physical object)""-tx-1-""van""-noun-0]",TX,15/3,
+137,MMI,3.43,"alpha 1-proteinase inhibitor, human",C0795657,"[aapp,imft,phsu]","[""Substance with human alpha1 proteinase inhibitor mechanism of action""-tx-1-""API""-noun-0]",TX,7/3,
+138,MMI,3.43,"alpha 1-proteinase inhibitor, human",C0795657,"[aapp,imft,phsu]","[""Substance with human alpha1 proteinase inhibitor mechanism of action""-tx-1-""API""-noun-0]",TX,7/3,
+139,MMI,3.44,"alpha 1-proteinase inhibitor, human",C0795657,"[aapp,imft,phsu]","[""Substance with human alpha1 proteinase inhibitor mechanism of action""-tx-1-""API""-noun-0]",TX,7/3,
+140,MMI,3.64,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""Division""-noun-0]",TX,7/8,
+141,MMI,3.64,regional,C0205147,[spco],"[""Regional""-tx-1-""Region""-noun-0]",TX,7/6,
+143,MMI,3.55,Groups,C0441833,[idcn],"[""Groups""-tx-1-""grouping""-adj-0]",TX,16/8,
+143,MMI,3.45,Cherokee language,C0574551,[lang],"[""Cherokee language""-tx-1-""Cherokee""-noun-0]",TX,0/8,
+144,MMI,11.49,Child,C0008059,[aggp],"[""Child""-tx-1-""Child""-noun-0]",TX,0/5,M01.060.406
+145,MMI,5.18,Chinese Language,C0008120,[lang],"[""Chinese language""-tx-1-""Chinese""-noun-0]",TX,0/7,
+146,MMI,3.55,Groups,C0441833,[idcn],"[""Groups""-tx-1-""grouping""-adj-0]",TX,16/8,
+146,MMI,3.45,Chippewa,C0337862,[popg],"[""Chippewa""-tx-1-""Chippewa""-noun-0]",TX,0/8,
+147,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,21/10,N01.600
+148,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""POPULATION""-noun-0]",TX,20/10,N01.600
+148,MMI,3.44,Age,C0001779,[orga],"[""Age""-tx-1-""AGE""-noun-0]",TX,16/3,
+149,MMI,6.58,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,18/10,N01.600
+149,MMI,3.55,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,32/5,
+149,MMI,3.42,Employed,C0557351,[fndg],"[""Employed""-tx-1-""employed""-adj-0]",TX,9/8,
+150,MMI,6.60,Work,C0043227,[ocac],"[""Working""-tx-1-""labor""-noun-0]",TX,9/5,I03.946
+150,MMI,3.59,Mechanical force,C0563538,[phpr],"[""Mechanical force""-tx-1-""force""-noun-0]",TX,15/5,
+151,MMI,6.74,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,30/10,N01.600
+152,MMI,6.70,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,30/10,N01.600
+152,MMI,3.55,64,C4517839,[qnco],"[""64""-tx-1-""64""-integer-0]",TX,47/2,
+152,MMI,3.55,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,50/5,
+153,MMI,6.71,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,30/10,N01.600
+153,MMI,3.43,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,50/5,
+154,MMI,6.58,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,9/10,N01.600
+154,MMI,3.55,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,23/5,
+156,MMI,3.59,Class,C0456387,[inpr],"[""Class""-tx-1-""CLASS""-noun-0]",TX,0/5,
+156,MMI,3.45,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""WORKER""-noun-0]",TX,9/6,
+158,MMI,19.22,Coke (solid fuel),C0009255,[sbst],"[""Coke""-tx-1-""coke""-noun-0]",TX,8/4,D20.345.108.110;N06.230.132.258.108.110
+158,MMI,16.21,Coal,C0009131,[orch],"[""Coal""-tx-1-""Coal""-noun-0]",TX,0/4,D20.345.108;N06.230.132.258.108
+159,MMI,6.59,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""school""-noun-0]",TX,20/6,I02.783;J03.832
+159,MMI,3.57,College,C0557806,[mnob],"[""College""-tx-1-""College""-noun-0]",TX,0/7,
+159,MMI,3.44,Graduate (person),C0588053,[popg],"[""Graduate (person)""-tx-1-""graduate""-noun-0]",TX,11/8,
+160,MMI,12.89,England,C0014282,[geoa],"[""England""-tx-1-""England""-noun-0]",TX,13/7,Z01.542.363.300
+160,MMI,6.70,Cities,C0008848,[geoa],"[""City""-tx-1-""City""-noun-0]",TX,21/4,Z01.433
+160,MMI,6.58,Towns,C0557750,[geoa],"[""Town""-tx-1-""Town""-noun-0]",TX,30/4,Z01.433
+160,MMI,3.42,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,35/4,
+160,MMI,3.42,Combined,C0205195,[qlco],"[""Combined""-tx-1-""Combined""-adj-0]",TX,0/8,
+160,MMI,3.42,New,C0205314,[qlco],"[""New""-tx-1-""New""-noun-0]",TX,9/3,
+161,MMI,3.59,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,21/4,
+161,MMI,3.45,Combined,C0205195,[qlco],"[""Combined""-tx-1-""Combined""-adj-0]",TX,0/8,
+162,MMI,6.60,Work,C0043227,[ocac],"[""Working""-tx-1-""WORK""-verb-0]",TX,13/4,I03.946
+163,MMI,13.03,Computers,C0009622,[mnob],"[""Computer""-tx-1-""COMPUTERS""-noun-0]",TX,0/9,L01.224.230.260
+163,MMI,3.44,Use - dosing instruction imperative,C1947944,[inpr],"[""Use - dosing instruction imperative""-tx-1-""USE""-noun-0]",TX,23/3,
+167,MMI,6.79,Cities,C0008848,[geoa],"[""City""-tx-1-""City""-noun-0]",TX,13/4,Z01.433
+168,MMI,5.18,Construction worker,C0403066,[prog],"[""Construction worker""-tx-1-""Construction""-noun-0]",TX,0/12,
+171,MMI,3.59,Subdivision of (attribute),C1273519,[fndg],"[""Subdivision of (attribute)""-tx-1-""Subdivision""-noun-0]",TX,7/11,
+175,MMI,5.18,Czech,C0337799,[popg],"[""Czech""-tx-1-""Czech""-noun-0]",TX,0/5,
+177,MMI,3.41,Differential quality,C0443199,[qlco],"[""Differential""-tx-1-""Different""-adj-0]",TX,0/9,
+178,MMI,16.05,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""Puerto Rico""-noun-0]",TX,19/11,Z01.107.084.900.750;Z01.639.880.750
+178,MMI,12.90,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Different U""-adj-0]",TX,"0/9,38/1",Z01.107.567.875
+178,MMI,3.54,House (environment),C2003847,[mnob],"[""House (environment)""-tx-1-""house""-noun-0]",TX,10/5,
+178,MMI,3.36,Differential quality,C0443199,[qlco],"[""Differential""-tx-1-""Different""-adj-0]",TX,0/9,
+179,MMI,12.91,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Different U""-adj-0]",TX,"0/9,23/1",Z01.107.567.875
+179,MMI,3.55,House (environment),C2003847,[mnob],"[""House (environment)""-tx-1-""house""-noun-0]",TX,10/5,
+179,MMI,3.37,Differential quality,C0443199,[qlco],"[""Differential""-tx-1-""Different""-adj-0]",TX,0/9,
+180,MMI,3.41,Differential quality,C0443199,[qlco],"[""Differential""-tx-1-""Different""-adj-0]",TX,0/9,
+181,MMI,3.64,Geographic state,C1301808,[geoa],"[""State""-tx-1-""state""-noun-0]",TX,10/5,
+181,MMI,3.41,Differential quality,C0443199,[qlco],"[""Differential""-tx-1-""Different""-adj-0]",TX,0/9,
+182,MMI,6.58,geographic population,C0032659,[qnco],"[""Population""-tx-1-""POPULATION""-noun-0]",TX,55/10,N01.600
+182,MMI,3.55,Status,C0449438,[qlco],"[""Status""-tx-1-""STATUS""-noun-0]",TX,11/6,
+182,MMI,3.42,Disability,C0231170,[fndg],"[""Disability""-tx-1-""DISABILITY""-noun-0]",TX,0/10,
+183,MMI,5.18,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""DIVISION""-noun-0]",TX,0/8,
+184,MMI,5.18,Divorced state,C0086170,[fndg],"[""Divorced state""-tx-1-""Divorced""-verb-0]",TX,0/8,
+185,MMI,5.18,Dutch Population,C0013331,[popg],"[""Dutch""-tx-1-""Dutch""-noun-0]",TX,0/5,
+186,MMI,11.49,Educational Status,C0013658,[fndg],"[""Educational status""-tx-1-""EDUCATIONAL ATTAINMENT""-noun-0]",TX,0/22,N01.824.196
+187,MMI,3.59,Healthcare services,C0557829,[hcro],"[""Healthcare services""-tx-1-""services health care""-noun-0]",TX,"12/8,26/11",
+187,MMI,3.44,Education assistance,C1276791,[edac],"[""Education assistance""-tx-1-""Educational assistance""-noun-0]",TX,"0/11,49/10",
+188,MMI,14.64,Electricity,C0013790,[npop],"[""Electricity""-tx-1-""Electricity""-noun-0]",TX,0/11,G01.358.500.249
+189,MMI,6.71,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""school""-noun-0]",TX,11/6,I02.783;J03.832
+189,MMI,6.65,Elements,C0013879,[elii],"[""Element, NOS""-tx-1-""Elementary""-noun-0]",TX,0/10,D01.268
+189,MMI,3.46,8.1,C4517875,[qnco],"[""8.1""-tx-1-""1-8""-integer-0]",TX,26/3,
+189,MMI,3.43,Grade,C0441800,[clas],"[""Grade""-tx-1-""grades""-noun-0]",TX,19/6,
+191,MMI,5.18,Employed,C0557351,[fndg],"[""Employed""-tx-1-""Employed""-verb-0]",TX,0/8,
+192,MMI,5.18,Employment status,C0242271,[fndg],"[""Employment status""-tx-1-""EMPLOYMENT STATUS""-noun-0]",TX,0/17,
+193,MMI,5.18,English race,C1556083,[popg],"[""English""-tx-1-""English""-noun-0]",TX,0/7,
+194,MMI,3.64,English race,C1556083,[popg],"[""English""-tx-1-""English""-noun-0]",TX,0/7,
+194,MMI,3.48,Singular,C0205171,[qnco],"[""Singular""-tx-1-""only""-adv-0]",TX,8/4,
+195,MMI,3.57,Late,C0205087,[tmco],"[""Late""-tx-1-""later""-adv-0]",TX,16/5,
+195,MMI,3.54,Enteral Route of Drug Administration,C1522196,[ftcn],"[""Enteral""-tx-1-""Entered""-verb-0]",TX,0/7,
+196,MMI,3.55,Enteral Route of Drug Administration,C1522196,[ftcn],"[""Enteral""-tx-1-""Entered""-verb-0]",TX,0/7,
+197,MMI,5.18,Estimated,C0750572,[qnco],"[""Estimated""-tx-1-""Estimate""-noun-0]",TX,0/8,
+198,MMI,8.34,Europe,C0015176,[geoa],"[""Europe""-tx-1-""Europe""-noun-0]",TX,0/6,Z01.542
+199,MMI,14.64,Family,C0015576,[famg],"[""Family""-tx-1-""Families""-noun-0]",TX,0/8,F01.829.263;I01.880.853.150
+200,MMI,13.01,Family,C0015576,[famg],"[""Family""-tx-1-""Families""-noun-0]",TX,0/8,F01.829.263;I01.880.853.150
+200,MMI,6.58,Woman,C0043210,[popg],"[""Woman""-tx-1-""female""-noun-0]",TX,14/6,M01.975
+200,MMI,3.42,Present,C0150312,[fndg],"[""Present""-tx-1-""present""-noun-1]",TX,45/7,
+200,MMI,3.42,husband,C0242664,[famg],"[""Husband""-tx-1-""husband""-noun-0]",TX,37/7,
+201,MMI,25.98,Family,C0015576,[famg],"[""Family""-tx-1-""Family""-noun-0,""Family""-tx-1-""families""-noun-0]",TX,0/6;19/8,F01.829.263;I01.880.853.150
+202,MMI,8.34,Woman,C0043210,[popg],"[""Woman""-tx-1-""Female""-noun-0]",TX,0/6,M01.975
+203,MMI,12.89,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,40/6,F01.829.263;I01.880.853.150
+203,MMI,6.58,Woman,C0043210,[popg],"[""Woman""-tx-1-""Female""-noun-0]",TX,0/6,M01.975
+203,MMI,3.43,Present,C0150312,[fndg],"[""Present""-tx-1-""present""-noun-1]",TX,31/7,
+203,MMI,3.43,husband,C0242664,[famg],"[""Husband""-tx-1-""husband""-noun-0]",TX,23/7,
+204,MMI,9.74,Females,C0086287,[orga],"[""Female, NOS""-tx-1-""Females""-noun-0]",TX,0/7,x.x.x
+204,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,11/5,
+205,MMI,9.74,Females,C0086287,[orga],"[""Female, NOS""-tx-1-""Females""-noun-0]",TX,0/7,x.x.x
+205,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,11/5,
+206,MMI,5.18,Infertility study,C0200069,[diap],"[""Infertility study""-tx-1-""FERTILITY""-noun-0]",TX,0/9,
+207,MMI,5.18,Filipino race,C1556093,[popg],"[""Filipinos""-tx-1-""Filipino""-noun-0]",TX,0/8,
+210,MMI,16.26,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""born""-adj-0]",TX,8/4,G08.686.784.769.490
+211,MMI,16.07,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""born""-adj-0]",TX,8/4,G08.686.784.769.490
+211,MMI,6.74,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,13/10,N01.600
+212,MMI,16.04,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""born""-adj-0]",TX,8/4,G08.686.784.769.490
+212,MMI,6.58,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,13/10,N01.600
+212,MMI,3.42,Sea,C0036493,[geoa],"[""Sea""-tx-1-""sea""-noun-0]",TX,54/3,
+212,MMI,3.40,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-verb-0]",TX,25/9,
+213,MMI,3.64,Canadian,C0238884,[popg],"[""Canadian""-tx-1-""Canadian""-adj-0]",TX,7/8,
+213,MMI,3.64,french race,C1556084,[popg],"[""French""-tx-1-""French""-adj-0]",TX,0/6,
+214,MMI,3.59,french race,C1556084,[popg],"[""French""-tx-1-""French""-noun-0]",TX,0/6,
+214,MMI,3.45,Basques,C0337796,[popg],"[""Basques""-tx-1-""Basque""-noun-0]",TX,15/6,
+215,MMI,19.41,Fuel Oils,C0016792,[orch],"[""Fuel oil""-tx-1-""Fuel oil""-noun-0]",TX,0/8,D20.345.630.500;N06.230.132.258.630.500
+215,MMI,19.21,Kerosene,C0022611,"[orch,phsu]","[""Kerosene""-tx-1-""kerosene""-noun-0]",TX,10/8,D20.345.630.600;N06.230.132.258.630.600
+217,MMI,3.45,Component object,C0449432,[mnob],"[""Component""-tx-1-""Component""-noun-0]",TX,11/9,
+218,MMI,3.64,Variant,C0205419,[qlco],"[""Variant""-tx-1-""variant""-noun-0]",TX,11/7,
+220,MMI,12.94,"Georgia, Western Asia",C0017454,[geoa],"[""Georgia""-tx-1-""GEO""-noun-0]",TX,0/3,Z01.542.900.420;Z01.542.931.420;Z01.586.950.420
+220,MMI,3.64,Identifier,C0600091,[inpr],"[""Identifier""-tx-1-""ID""-noun-0]",TX,4/2,
+222,MMI,5.18,german race,C1556085,[popg],"[""Germans""-tx-1-""German""-noun-0]",TX,0/6,
+223,MMI,3.64,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,11/7,
+224,MMI,3.57,Graduate (person),C0588053,[popg],"[""Graduate (person)""-tx-1-""Graduate""-noun-0]",TX,0/8,
+224,MMI,3.44,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""degree""-noun-0]",TX,25/6,
+225,MMI,17.80,grandparent,C0337471,[famg],"[""Grandparent""-tx-1-""GRANDPARENTS""-noun-0]",TX,0/12,F01.829.263.403;I01.880.853.150.452;M01.264
+226,MMI,16.18,grandparent,C0337471,[famg],"[""Grandparent""-tx-1-""Grandparents""-noun-0]",TX,0/12,F01.829.263.403;I01.880.853.150.452;M01.264
+226,MMI,3.44,Responsible to,C1273518,[fndg],"[""Responsible to""-tx-1-""responsible""-adj-0]",TX,13/11,
+226,MMI,3.44,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""grandchildren""-noun-0]",TX,29/13,
+227,MMI,5.18,Greeks,C0337806,[popg],"[""Greeks""-tx-1-""Greek""-noun-0]",TX,0/5,
+228,MMI,3.48,Gross (qualifier value),C0439806,[qlco],"[""Gross (qualifier value)""-tx-1-""GROSS""-adj-0]",TX,0/5,
+229,MMI,3.43,Household income,C0557163,[fndg],"[""Household income""-tx-1-""HOUSEHOLD INCOME""-noun-0]",TX,30/16,
+229,MMI,3.42,Gross (qualifier value),C0439806,[qlco],"[""Gross (qualifier value)""-tx-1-""GROSS""-adj-0]",TX,0/5,
+229,MMI,3.42,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""PERCENTAGE""-noun-0]",TX,16/10,
+231,MMI,6.60,Health,C0018684,[idcn],"[""Health""-tx-1-""HEALTH""-noun-0]",TX,0/6,N01.400
+232,MMI,3.66,Severe (severity modifier),C0205082,[fndg],"[""Severe (severity modifier)""-tx-1-""High school grades""-noun-0]",TX,"0/11,13/6",
+233,MMI,6.59,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""school""-noun-0]",TX,5/6,I02.783;J03.832
+233,MMI,3.56,Graduate (person),C0588053,[popg],"[""Graduate (person)""-tx-1-""graduate""-noun-0]",TX,12/8,
+233,MMI,3.43,Abnormally high,C1299351,[qlco],"[""Abnormally high""-tx-1-""High""-noun-0]",TX,0/4,
+233,MMI,3.43,Including (qualifier),C0332257,[ftcn],"[""Including""-tx-1-""includes""-verb-0]",TX,22/8,
+233,MMI,3.39,Equal,C0205163,[qlco],"[""Equal""-tx-1-""equivalency""-noun-0]",TX,31/11,
+234,MMI,13.02,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""HISPANIC""-noun-0]",TX,0/8,M01.686.754.441
+234,MMI,3.43,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""RACE""-noun-0]",TX,23/4,
+235,MMI,13.01,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""Hispanic""-noun-0]",TX,0/8,M01.686.754.441
+235,MMI,3.43,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""race""-noun-0]",TX,27/4,
+236,MMI,3.45,Owns own home,C0578827,[fndg],"[""Owns own home""-tx-1-""Homeowner""-noun-0]",TX,0/9,
+237,MMI,3.59,Fuel,C0556991,[mnob],"[""Fuel""-tx-1-""FUEL""-noun-0]",TX,14/4,
+237,MMI,3.45,House (environment),C2003847,[mnob],"[""House (environment)""-tx-1-""HOUSE""-noun-0]",TX,0/5,
+237,MMI,3.43,Heat (physical force),C0018837,[npop],"[""Heat (physical force)""-tx-1-""HEATING""-adj-0]",TX,6/7,
+239,MMI,3.45,Household composition,C0595998,[fndg],"[""Household composition""-tx-1-""living""-verb-0]",TX,12/6,
+239,MMI,3.45,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,19/5,
+240,MMI,3.45,Type - attribute,C0332307,[qlco],"[""Type - attribute""-tx-1-""TYPE""-noun-0]",TX,14/4,
+241,MMI,3.42,One year,C4082117,[tmco],"[""One year""-tx-1-""one years""-noun-0]",TX,"16/3,38/5",
+241,MMI,3.42,65,C0450385,[inpr],"[""65""-tx-1-""65""-integer-0]",TX,35/2,
+241,MMI,3.42,Persons,C0027361,[popg],"[""Person""-tx-1-""people""-noun-0]",TX,28/6,M01
+242,MMI,3.42,One year,C4082117,[tmco],"[""One year""-tx-1-""one years""-noun-0]",TX,"16/3,44/5",
+242,MMI,3.42,Persons,C0027361,[popg],"[""Person""-tx-1-""people""-noun-0]",TX,28/6,M01
+243,MMI,19.25,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""HOUSING""-adj-0]",TX,0/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+244,MMI,5.18,Tenure of accommodation,C0557203,[fndg],"[""Tenure of accommodation""-tx-1-""HOUSING TENURE""-noun-0]",TX,0/14,
+245,MMI,19.20,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""Housing""-adj-0]",TX,0/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+245,MMI,3.56,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,8/5,
+246,MMI,19.19,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""Housing""-adj-0]",TX,0/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+246,MMI,3.42,Unit,C0439148,[qnco],"[""Unit""-tx-1-""units""-noun-0]",TX,8/5,
+246,MMI,3.40,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-adj-0]",TX,31/9,
+247,MMI,19.20,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""Housing""-adj-0]",TX,0/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+247,MMI,3.56,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,8/5,
+248,MMI,19.19,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""Housing""-adj-0]",TX,0/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+248,MMI,3.54,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""unit""-noun-0]",TX,8/4,
+248,MMI,3.42,Unit,C0439148,[qnco],"[""Unit""-tx-1-""units""-noun-0]",TX,43/5,
+248,MMI,3.40,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-adj-0]",TX,33/9,
+249,MMI,5.18,Hungarian (ethnic group),C0337807,[popg],"[""Hungarian (ethnic group)""-tx-1-""Hungarian""-noun-0]",TX,0/9,
+251,MMI,9.85,Income,C0021162,[qnco],"[""Income""-tx-1-""INCOME""-noun-0]",TX,0/6,N01.824.417
+251,MMI,3.42,Adjustment Action,C0456081,[ftcn],"[""Adjustment - action""-tx-1-""ADJUSTED""-adj-0]",TX,39/8,
+251,MMI,3.42,Inflation procedure,C1318493,[hlca],"[""Inflation""-tx-1-""INFLATION""-noun-0]",TX,29/9,
+251,MMI,3.42,dollar,C0562019,[qnco],"[""dollar""-tx-1-""DOLLARS""-noun-0]",TX,48/7,
+254,MMI,6.60,Work,C0043227,[ocac],"[""Working""-tx-1-""labor""-noun-0]",TX,3/5,I03.946
+254,MMI,3.59,Mechanical force,C0563538,[phpr],"[""Mechanical force""-tx-1-""force""-noun-0]",TX,9/5,
+255,MMI,16.33,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""Puerto Rico""-noun-0]",TX,3/11,Z01.107.084.900.750;Z01.639.880.750
+256,MMI,13.10,United States,C0041703,[geoa],"[""United States of America""-tx-1-""United States""-noun-0]",TX,7/13,Z01.107.567.875
+258,MMI,5.18,Italian language,C0022275,[lang],"[""Italian language""-tx-1-""Italian""-noun-0]",TX,0/7,
+259,MMI,5.18,Japanese language,C0376247,[lang],"[""Japanese language""-tx-1-""Japanese""-noun-0]",TX,0/8,
+261,MMI,5.18,Korean race,C1556095,[popg],"[""Koreans""-tx-1-""Korean""-noun-0]",TX,0/6,
+263,MMI,3.44,Complete,C0205197,[qlco],"[""Complete""-tx-1-""complete""-adj-0]",TX,8/8,
+263,MMI,3.44,Kitchen,C0557653,[mnob],"[""Kitchen""-tx-1-""kitchen""-noun-0]",TX,17/7,
+263,MMI,3.44,Lacking,C0332268,[qlco],"[""Lacking""-tx-1-""Lacking""-noun-0]",TX,0/7,
+264,MMI,3.44,Complete,C0205197,[qlco],"[""Complete""-tx-1-""complete""-adj-0]",TX,8/8,
+264,MMI,3.44,Lacking,C0332268,[qlco],"[""Lacking""-tx-1-""Lacking""-noun-0]",TX,0/7,
+265,MMI,3.62,English Language,C0376245,[lang],"[""English language""-tx-1-""Language English""-noun-0]",TX,"0/8,20/7",
+266,MMI,3.64,Language spoken,C0424919,[fndg],"[""Language spoken""-tx-1-""LANGUAGE SPOKEN""-noun-0]",TX,0/15,
+266,MMI,3.44,Home environment,C0442519,[spco],"[""Home environment""-tx-1-""HOME""-adj-0]",TX,19/4,
+268,MMI,3.60,Legal name,C1549762,[idcn],"[""Legal name""-tx-1-""Legal name""-noun-0]",TX,"0/5,35/4",
+268,MMI,3.43,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,18/4,
+269,MMI,3.64,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+270,MMI,3.61,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+270,MMI,3.56,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,15/7,
+271,MMI,3.61,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+271,MMI,3.60,0.15,C4068886,[qnco],"[""0.15""-tx-1-""15.0""-real_number-0]",TX,10/4,
+271,MMI,3.56,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,15/7,
+272,MMI,3.64,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+272,MMI,3.57,per year,C0439508,[tmco],"[""per year""-tx-1-""year""-noun-0]",TX,12/4,
+273,MMI,3.61,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+273,MMI,3.56,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""percent""-noun-0]",TX,15/7,
+274,MMI,3.72,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+275,MMI,3.72,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+275,MMI,3.59,500,C3816747,[qnco],"[""500""-tx-1-""500""-integer-0]",TX,11/3,
+276,MMI,3.64,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+277,MMI,3.64,Less Than,C0439092,[qnco],"[""<""-tx-1-""Less than""-adv-0]",TX,0/9,
+277,MMI,3.57,Histopathologic Grade,C0919553,[clas],"[""Histologic grade""-tx-1-""grade""-noun-0]",TX,14/5,
+279,MMI,3.64,Person Name,C1547383,[inpr],"[""Person name""-tx-1-""NAME""-noun-0]",TX,5/4,
+280,MMI,11.49,Males,C0086582,[orga],"[""Male, NOS""-tx-1-""Male""-noun-0]",TX,0/4,x.x.x
+281,MMI,12.89,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,35/6,F01.829.263;I01.880.853.150
+281,MMI,9.74,Males,C0086582,[orga],"[""Male, NOS""-tx-1-""Male""-noun-0]",TX,0/4,x.x.x
+281,MMI,3.43,Present,C0150312,[fndg],"[""Present""-tx-1-""present""-noun-1]",TX,26/7,
+281,MMI,3.43,wife,C0242665,[famg],"[""Wife""-tx-1-""wife""-noun-0]",TX,21/4,
+282,MMI,9.74,Males,C0086582,[orga],"[""Male, NOS""-tx-1-""Males""-noun-0]",TX,0/5,x.x.x
+282,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+283,MMI,9.74,Occupations,C0028811,[ocdi],"[""Occupations""-tx-1-""occupations""-noun-0]",TX,40/11,N01.824.547
+283,MMI,3.55,Management procedure,C1273870,[ocac],"[""Management procedure""-tx-1-""Management""-noun-0]",TX,0/10,
+285,MMI,20.95,Marital Status,C0024819,[fndg],"[""Marital status""-tx-1-""MARITAL STATUS""-noun-0]",TX,0/14,F01.829.263.315.500;I01.240.361.500;I01.880.853.150.423.500;N01.224.361.500;N01.824.308.500
+286,MMI,13.05,Family,C0015576,[famg],"[""Family""-tx-1-""families""-noun-0]",TX,15/8,F01.829.263;I01.880.853.150
+286,MMI,3.45,Married (finding),C0555047,[fndg],"[""Married (finding)""-tx-1-""Married""-adj-0]",TX,0/7,
+287,MMI,13.05,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,15/6,F01.829.263;I01.880.853.150
+287,MMI,3.59,Married (finding),C0555047,[fndg],"[""Married (finding)""-tx-1-""Married""-verb-0]",TX,0/7,
+288,MMI,9.86,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,28/6,N01.824.417
+288,MMI,3.43,Assisted (qualifier value),C1269765,[qlco],"[""Assisted (qualifier value)""-tx-1-""assistance""-noun-0]",TX,17/10,
+288,MMI,3.43,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+288,MMI,3.43,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,36/7,
+289,MMI,3.45,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+289,MMI,3.45,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,15/7,
+290,MMI,12.90,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,5/6,F01.829.263;I01.880.853.150
+290,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,12/6,N01.824.417
+290,MMI,3.44,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+290,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,20/7,
+291,MMI,3.64,Household income,C0557163,[fndg],"[""Household income""-tx-1-""household income""-noun-0]",TX,5/16,
+291,MMI,3.44,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+291,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,23/7,
+292,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,15/6,N01.824.417
+292,MMI,3.44,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+292,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,23/7,
+293,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,16/6,N01.824.417
+293,MMI,6.59,Retirement,C0035345,[fndg],"[""Retirement""-tx-1-""retirement""-noun-0]",TX,5/10,I03.702
+293,MMI,3.44,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+293,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,24/7,
+294,MMI,9.87,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,21/6,N01.824.417
+294,MMI,3.43,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+294,MMI,3.43,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,29/7,
+295,MMI,12.96,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,5/12,G07.203.300.456;J02.500.456
+295,MMI,9.87,Income,C0021162,[qnco],"[""Income""-tx-1-""Income""-noun-0]",TX,27/6,N01.824.417
+295,MMI,3.43,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+295,MMI,3.43,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,35/7,
+296,MMI,6.71,Time,C0040223,[tmco],"[""Time""-tx-1-""time""-noun-0]",TX,12/4,G01.910
+296,MMI,6.58,Work,C0043227,[ocac],"[""Working""-tx-1-""work""-verb-0]",TX,20/4,I03.946
+296,MMI,6.58,travel,C0040802,[dora],"[""Travel""-tx-1-""travel""-noun-0]",TX,5/6,I03.883
+296,MMI,3.43,Per Minute,C0702093,[tmco],"[""per minute""-tx-1-""minutes""-noun-0]",TX,26/7,
+296,MMI,3.43,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""Mean""-noun-0]",TX,0/4,
+297,MMI,3.59,Age,C0001779,[orga],"[""Age""-tx-1-""age""-noun-0]",TX,7/3,
+297,MMI,3.45,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+297,MMI,3.45,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,12/5,
+298,MMI,3.64,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-noun-0]",TX,0/6,
+298,MMI,3.48,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,8/7,
+299,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""female""-noun-0]",TX,20/6,M01.975
+299,MMI,3.43,Full-time employment (finding),C0682295,[fndg],"[""Full-time employment (finding)""-tx-1-""full-time""-adj-0]",TX,27/9,
+299,MMI,3.43,dollars/year,C1688607,[qnco],"[""dollars/year""-tx-1-""year dollars""-noun-0]",TX,"38/4,58/7",
+299,MMI,3.42,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+299,MMI,3.42,Round shape,C0332490,[spco],"[""Round shape""-tx-1-""round""-adj-0]",TX,43/5,
+299,MMI,3.42,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,49/7,
+300,MMI,9.73,Males,C0086582,[orga],"[""Male, NOS""-tx-1-""male""-noun-0]",TX,20/4,x.x.x
+300,MMI,3.43,Full-time employment (finding),C0682295,[fndg],"[""Full-time employment (finding)""-tx-1-""full-time""-adj-0]",TX,25/9,
+300,MMI,3.43,dollars/year,C1688607,[qnco],"[""dollars/year""-tx-1-""year dollars""-noun-0]",TX,"36/4,56/7",
+300,MMI,3.42,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+300,MMI,3.42,Round shape,C0332490,[spco],"[""Round shape""-tx-1-""round""-adj-0]",TX,41/5,
+300,MMI,3.42,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,47/7,
+301,MMI,3.43,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+301,MMI,3.43,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,20/7,
+301,MMI,3.43,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,29/7,
+302,MMI,12.90,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,7/6,F01.829.263;I01.880.853.150
+302,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,14/6,N01.824.417
+302,MMI,3.44,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+302,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,22/7,
+303,MMI,3.64,Household income,C0557163,[fndg],"[""Household income""-tx-1-""household income""-noun-0]",TX,7/16,
+303,MMI,3.44,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+303,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,25/7,
+304,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,17/6,N01.824.417
+304,MMI,3.44,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+304,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,25/7,
+305,MMI,3.48,Midline (qualifier value),C0549183,[spco],"[""Midline (qualifier value)""-tx-1-""Median""-adj-0]",TX,0/6,
+307,MMI,3.64,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""Division""-noun-0]",TX,13/8,
+308,MMI,3.43,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,25/4,
+310,MMI,5.18,Mobile home,C0442516,[mnob],"[""Mobile home""-tx-1-""Mobile home""-noun-0]",TX,0/11,
+311,MMI,3.64,Status,C0449438,[qlco],"[""Status""-tx-1-""STATUS""-noun-0]",TX,9/6,
+312,MMI,3.56,Early,C1279919,[tmco],"[""Early""-tx-1-""earlier""-adj-0]",TX,18/7,
+312,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+313,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+314,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+315,MMI,3.56,2000,C0470277,[qnco],"[""2000""-tx-1-""2000""-integer-0]",TX,9/4,
+315,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+316,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+317,MMI,3.56,Late,C0205087,[tmco],"[""Late""-tx-1-""later""-adv-0]",TX,17/5,
+317,MMI,3.53,Does move,C0578671,[fndg],"[""Does move""-tx-1-""Moved""-verb-0]",TX,0/5,
+318,MMI,5.18,Person Name,C1547383,[inpr],"[""Person name""-tx-1-""name""-noun-0]",TX,0/4,
+319,MMI,5.18,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,0/6,
+320,MMI,5.18,Hawaiian population,C0337920,[popg],"[""Hawaiians""-tx-1-""Native Hawaiian""-noun-0]",TX,0/15,
+321,MMI,3.59,Hawaiian population,C0337920,[popg],"[""Hawaiians""-tx-1-""Native Hawaiian""-noun-0]",TX,0/15,
+322,MMI,3.58,Hawaiian population,C0337920,[popg],"[""Hawaiians""-tx-1-""Native Hawaiian""-noun-0]",TX,0/15,
+322,MMI,3.42,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,43/5,
+323,MMI,12.94,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Naturalized U""-adj-0]",TX,0/13,Z01.107.567.875
+324,MMI,9.74,Occupations,C0028811,[ocdi],"[""Occupations""-tx-1-""occupations""-noun-0]",TX,49/11,N01.824.547
+324,MMI,3.55,Natural,C0205296,[ftcn],"[""Natural""-tx-1-""Natural""-noun-0]",TX,0/7,
+324,MMI,3.43,Construction worker,C0403066,[prog],"[""Construction worker""-tx-1-""construction""-noun-0]",TX,19/12,
+325,MMI,3.55,Groups,C0441833,[idcn],"[""Groups""-tx-1-""grouping""-adj-0]",TX,14/8,
+325,MMI,3.45,Navaho (ethnic group),C0337879,[popg],"[""Navaho (ethnic group)""-tx-1-""Navajo""-adj-0]",TX,0/6,
+328,MMI,24.11,Never Married,C0027952,[fndg],"[""Never married""-tx-1-""Never married""-adj-0]",TX,0/13,F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+329,MMI,12.89,England,C0014282,[geoa],"[""England""-tx-1-""England""-noun-0]",TX,4/7,Z01.542.363.300
+329,MMI,6.71,Cities,C0008848,[geoa],"[""City""-tx-1-""City""-noun-0]",TX,12/4,Z01.433
+329,MMI,6.58,Towns,C0557750,[geoa],"[""Town""-tx-1-""Town""-noun-0]",TX,21/4,Z01.433
+329,MMI,3.43,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,26/4,
+329,MMI,3.43,New,C0205314,[qlco],"[""New""-tx-1-""New""-noun-0]",TX,0/3,
+330,MMI,12.89,England,C0014282,[geoa],"[""England""-tx-1-""England""-noun-0]",TX,4/7,Z01.542.363.300
+330,MMI,6.71,Cities,C0008848,[geoa],"[""City""-tx-1-""City""-noun-0]",TX,12/4,Z01.433
+330,MMI,6.58,Towns,C0557750,[geoa],"[""Town""-tx-1-""Town""-noun-0]",TX,21/4,Z01.433
+330,MMI,3.43,New,C0205314,[qlco],"[""New""-tx-1-""New""-noun-0]",TX,0/3,
+330,MMI,3.43,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""Division""-noun-0]",TX,26/8,
+331,MMI,3.64,Bedroom,C0557652,[mnob],"[""Bedroom""-tx-1-""bedroom""-noun-0]",TX,3/7,
+332,MMI,3.59,Fuel,C0556991,[mnob],"[""Fuel""-tx-1-""fuel""-noun-0]",TX,3/4,
+332,MMI,3.45,Used by,C1273517,[fndg],"[""Used by""-tx-1-""used""-verb-1]",TX,8/4,
+333,MMI,6.59,Health,C0018684,[idcn],"[""Health""-tx-1-""health""-noun-0]",TX,3/6,N01.400
+337,MMI,10.27,North America,C0028405,[geoa],"[""North America""-tx-1-""Northern America""-noun-0]",TX,0/16,Z01.107.567
+338,MMI,5.18,Norwegians,C0337812,[popg],"[""Norwegians""-tx-1-""Norwegian""-adj-0]",TX,0/9,
+339,MMI,12.95,United States,C0041703,[geoa],"[""United States of America""-tx-1-""Not a U""-noun-0]",TX,0/7,Z01.107.567.875
+341,MMI,12.90,Telephone,C0039457,[mnob],"[""Telephone""-tx-1-""telephone""-noun-0]",TX,3/9,L01.178.847.698
+341,MMI,3.57,Services,C0557854,[ocac],"[""Services""-tx-1-""service""-noun-0]",TX,13/7,
+341,MMI,3.44,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""available""-adj-0]",TX,21/9,
+342,MMI,13.03,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""Hispanic""-adj-0]",TX,4/8,M01.686.754.441
+343,MMI,5.18,Not in labor force,C0814973,[fndg],"[""Not in labor force""-tx-1-""Not in labor force""-noun-0]",TX,0/18,
+344,MMI,3.59,Drug vehicle,C0042444,[bodm],"[""Drug vehicle""-tx-1-""vehicles""-noun-0]",TX,3/8,
+344,MMI,3.45,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""available""-adj-0]",TX,12/9,
+345,MMI,3.57,Married (finding),C0555047,[fndg],"[""Married (finding)""-tx-1-""married""-verb-0]",TX,4/7,
+345,MMI,3.57,Separate,C0443299,[qlco],"[""Separate""-tx-1-""separated""-adj-0]",TX,20/9,
+346,MMI,16.04,grandparent,C0337471,[famg],"[""Grandparent""-tx-1-""grandparents""-noun-0]",TX,10/12,F01.829.263.403;I01.880.853.150.452;M01.264
+346,MMI,3.54,Numbers,C0237753,[qnco],"[""Numbers""-tx-1-""Number""-noun-0]",TX,0/6,
+346,MMI,3.42,Household composition,C0595998,[fndg],"[""Household composition""-tx-1-""living""-verb-0]",TX,23/6,
+346,MMI,3.42,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""grandchildren""-noun-0]",TX,39/13,
+346,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,62/5,
+347,MMI,16.04,grandparent,C0337471,[famg],"[""Grandparent""-tx-1-""grandparents""-noun-0]",TX,10/12,F01.829.263.403;I01.880.853.150.452;M01.264
+347,MMI,3.54,Numbers,C0237753,[qnco],"[""Numbers""-tx-1-""Number""-noun-0]",TX,0/6,
+347,MMI,3.42,Responsible to,C1273518,[fndg],"[""Responsible to""-tx-1-""responsible""-adj-0]",TX,23/11,
+347,MMI,3.42,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""grandchildren""-noun-0]",TX,43/13,
+347,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,66/5,
+348,MMI,16.03,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""birth""-noun-0]",TX,45/5,G08.686.784.769.490
+348,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+348,MMI,3.53,Numbers,C0237753,[qnco],"[""Numbers""-tx-1-""Number""-noun-0]",TX,0/6,
+348,MMI,3.41,In the past,C1444637,[tmco],"[""In the past""-tx-1-""past""-noun-0]",TX,58/4,
+348,MMI,3.41,Old,C0580836,[tmco],"[""Old""-tx-1-""old""-noun-0]",TX,31/3,
+348,MMI,3.41,month,C0439231,[tmco],"[""month""-tx-1-""months""-noun-0]",TX,66/6,
+348,MMI,3.41,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+349,MMI,10.02,"Schools, Nursery",C0036379,"[mnob,orgt]","[""Nursery school""-tx-1-""Nursery school""-noun-0]",TX,0/14,I02.783.660;J03.832.660
+349,MMI,3.45,Pre-school (environment),C0424930,[mnob],"[""Pre-school (environment)""-tx-1-""preschool""-noun-0]",TX,16/9,
+351,MMI,11.49,Occupations,C0028811,[ocdi],"[""Occupations""-tx-1-""OCCUPATION""-noun-0]",TX,0/10,N01.824.547
+352,MMI,19.22,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""housing""-adj-0]",TX,9/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+352,MMI,3.59,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,17/5,
+353,MMI,3.57,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,9/5,
+354,MMI,3.42,Unit,C0439148,[qnco],"[""Unit""-tx-1-""units""-noun-0]",TX,9/5,
+354,MMI,3.40,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-adj-0]",TX,28/9,
+355,MMI,8.34,Oceania,C0282279,[geoa],"[""Oceania""-tx-1-""Oceania""-noun-0]",TX,0/7,Z01.678
+356,MMI,3.64,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""race""-noun-0]",TX,4/4,
+356,MMI,3.48,One,C0205447,[qnco],"[""One""-tx-1-""One""-noun-0]",TX,0/3,
+357,MMI,13.10,Asians,C0078988,[popg],"[""Oriental""-tx-1-""Asian""-noun-0]",TX,6/5,M01.686.508.200
+358,MMI,3.64,Fuel,C0556991,[mnob],"[""Fuel""-tx-1-""fuel""-noun-0]",TX,6/4,
+359,MMI,13.03,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""Hispanic""-noun-0]",TX,6/8,M01.686.754.441
+360,MMI,3.75,Indo-European language,C0574300,[lang],"[""Indo-European language""-tx-1-""Indo-European languages""-noun-0]",TX,6/23,
+361,MMI,13.10,Languages,C0023008,[lang],"[""Language NOS""-tx-1-""languages""-noun-0]",TX,6/9,F01.145.209.399;L01.559
+362,MMI,3.60,Statistical mean,C0444504,[qnco],"[""Mean""-tx-1-""means""-noun-0]",TX,6/5,
+364,MMI,3.64,Relative (related person),C0080103,[famg],"[""Relative""-tx-1-""relatives""-noun-0]",TX,6/9,
+365,MMI,3.56,Services,C0557854,[ocac],"[""Services""-tx-1-""services""-noun-0]",TX,6/8,
+365,MMI,3.43,Administration occupational activities,C0001554,[ocac],"[""Administration NOS""-tx-1-""administration""-noun-0]",TX,30/14,
+366,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,4/8,M01.060.406
+366,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,40/5,
+367,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,4/8,M01.060.406
+367,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,40/5,
+369,MMI,3.59,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,15/5,
+370,MMI,3.68,Family member,C0086282,[famg],"[""Family member""-tx-1-""People families""-noun-0]",TX,"0/6,10/8",
+371,MMI,22.36,Unmarried person,C0037179,[popg],"[""Single person""-tx-1-""unmarried""-adj-0]",TX,10/9,F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+371,MMI,6.59,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,20/5,M01.975
+372,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+372,MMI,3.42,Old,C0580836,[tmco],"[""Old""-tx-1-""old""-adj-0]",TX,31/3,
+372,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+373,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+373,MMI,3.42,Old,C0580836,[tmco],"[""Old""-tx-1-""old""-adj-0]",TX,31/3,
+373,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+374,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+374,MMI,3.42,Old,C0580836,[tmco],"[""Old""-tx-1-""old""-adj-0]",TX,31/3,
+374,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+375,MMI,6.57,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+375,MMI,3.42,35,C4319605,[qnco],"[""35""-tx-1-""35""-integer-0]",TX,16/2,
+375,MMI,3.42,Old,C0580836,[tmco],"[""Old""-tx-1-""old""-adj-0]",TX,31/3,
+375,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+376,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,11/6,N01.824.417
+376,MMI,6.57,Head,C0018670,[blor],"[""Head""-tx-1-""capita""-noun-0]",TX,4/6,A01.456
+376,MMI,3.44,dollar,C0562019,[qnco],"[""dollar""-tx-1-""dollars""-noun-0]",TX,19/7,
+377,MMI,5.18,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""Percent""-noun-0]",TX,0/7,
+378,MMI,16.03,Poverty,C0032854,[grpa],"[""Poverty""-tx-1-""POVERTY""-noun-0]",TX,82/7,I01.880.735.634;I01.880.853.996.535;N01.824.600
+378,MMI,9.72,Income,C0021162,[qnco],"[""Income""-tx-1-""INCOME""-noun-0]",TX,40/6,N01.824.417
+378,MMI,3.53,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""PERCENTAGE""-noun-0]",TX,0/10,
+378,MMI,3.43,Family member,C0086282,[famg],"[""Family member""-tx-1-""FAMILIES PEOPLE IN THE""-noun-0]",TX,"14/8,27/6,47/6",
+378,MMI,3.41,In the past,C1444637,[tmco],"[""In the past""-tx-1-""PAST""-noun-0]",TX,54/4,
+378,MMI,3.41,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""LEVEL""-noun-0]",TX,90/5,
+378,MMI,3.41,month,C0439231,[tmco],"[""month""-tx-1-""MONTHS""-noun-0]",TX,62/6,
+379,MMI,3.56,Degree or extent,C0449286,[qnco],"[""Degree""-tx-1-""degree""-noun-0]",TX,19/6,
+379,MMI,3.43,Bachelor,C0337600,[fndg],"[""Bachelor""-tx-1-""bachelor's""-noun-0]",TX,8/10,
+379,MMI,3.43,High,C0205250,[qlco],"[""High""-tx-1-""higher""-adj-0]",TX,29/6,
+379,MMI,3.43,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""Percent""-noun-0]",TX,0/7,
+380,MMI,6.58,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""school""-noun-0]",TX,13/6,I02.783;J03.832
+380,MMI,3.55,Graduate (person),C0588053,[popg],"[""Graduate (person)""-tx-1-""graduate""-noun-0]",TX,20/8,
+380,MMI,3.43,Abnormally high,C1299351,[qlco],"[""Abnormally high""-tx-1-""high""-noun-0]",TX,8/4,
+380,MMI,3.43,High,C0205250,[qlco],"[""High""-tx-1-""higher""-noun-0]",TX,32/6,
+380,MMI,3.43,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""Percent""-noun-0]",TX,0/7,
+381,MMI,5.18,Place - dosing instruction imperative,C1704765,[ftcn],"[""Place - dosing instruction imperative""-tx-1-""PLACE""-noun-0]",TX,0/5,
+382,MMI,3.64,Place - dosing instruction imperative,C1704765,[ftcn],"[""Place - dosing instruction imperative""-tx-1-""Place""-noun-0]",TX,0/5,
+383,MMI,17.80,Place of Birth,C0032040,[fndg],"[""Place of birth NOS""-tx-1-""PLACE OF BIRTH""-noun-0]",TX,0/14,N01.224.791;N06.850.505.400.800
+385,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+385,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,14/5,
+386,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+386,MMI,3.56,per year,C0439508,[tmco],"[""per year""-tx-1-""year""-noun-0]",TX,13/4,
+387,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+387,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,14/5,
+388,MMI,6.58,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""school""-adj-0]",TX,40/6,I02.783;J03.832
+388,MMI,6.58,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+388,MMI,3.54,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,13/5,
+389,MMI,6.59,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+389,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,13/5,
+390,MMI,16.08,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""Puerto Rico""-noun-0]",TX,24/11,Z01.107.084.900.750;Z01.639.880.750
+390,MMI,16.05,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""born""-verb-0]",TX,11/4,G08.686.784.769.490
+390,MMI,6.71,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+390,MMI,3.43,Extrinsic,C0205101,[spco],"[""Extrinsic""-tx-1-""outside""-adj-0]",TX,16/7,
+391,MMI,16.04,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""born""-verb-0]",TX,11/4,G08.686.784.769.490
+391,MMI,12.91,United States,C0041703,[geoa],"[""United States of America""-tx-1-""United States""-noun-0]",TX,28/13,Z01.107.567.875
+391,MMI,6.71,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+391,MMI,3.43,Extrinsic,C0205101,[spco],"[""Extrinsic""-tx-1-""outside""-adj-0]",TX,16/7,
+392,MMI,6.74,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,0/10,N01.600
+393,MMI,5.18,Portuguese population,C0032730,[popg],"[""Portuguese""-tx-1-""Portuguese""-noun-0]",TX,0/10,
+394,MMI,3.43,United States Military enlisted E1,C4521534,[clas],"[""United States Military enlisted E1""-tx-1-""Private""-adj-0]",TX,0/7,
+394,MMI,3.43,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,24/7,
+395,MMI,3.45,Transport occupation,C0403099,[ocdi],"[""Transport occupation""-tx-1-""moving occupations""-noun-0]",TX,41/18,
+395,MMI,3.43,Materials,C0520510,[sbst],"[""Materials""-tx-1-""material""-noun-0]",TX,32/8,
+396,MMI,3.42,Administrative action,C1292785,[ftcn],"[""Administrative action""-tx-1-""administrative""-adj-0]",TX,46/14,
+396,MMI,3.42,Management procedure,C1273870,[ocac],"[""Management procedure""-tx-1-""management""-noun-0]",TX,30/10,
+396,MMI,3.42,Services,C0557854,[ocac],"[""Services""-tx-1-""services""-noun-0]",TX,82/8,
+397,MMI,3.64,Administration occupational activities,C0001554,[ocac],"[""Administration NOS""-tx-1-""administration""-noun-0]",TX,7/14,
+398,MMI,3.42,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-adj-0]",TX,23/9,
+399,MMI,5.18,>5,C0439084,[qnco],"["">5""-tx-2-""5""-percentage-0]",TX,28/1,
+399,MMI,3.57,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,21/4,
+399,MMI,3.44,Usage,C0457083,[ftcn],"[""Usage""-tx-1-""Use""-noun-0]",TX,7/3,
+402,MMI,5.18,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""RACE""-noun-0]",TX,0/4,
+403,MMI,7.12,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""Race""-verb-0,""Racial group""-tx-1-""races""-noun-0]",TX,0/4;52/5,
+403,MMI,3.54,Combined,C0205195,[qlco],"[""Combined""-tx-1-""combination""-noun-0]",TX,17/11,
+403,MMI,3.54,One,C0205447,[qnco],"[""One""-tx-1-""one""-noun-0]",TX,34/3,
+403,MMI,3.54,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,5/5,
+404,MMI,5.18,regional,C0205147,[spco],"[""Regional""-tx-1-""REGION""-noun-0]",TX,0/6,
+405,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,8/8,M01.060.406
+405,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,44/5,
+405,MMI,3.40,Relative to,C3875154,[idcn],"[""Relative to""-tx-1-""Related to""-adj-0]",TX,"0/7,38/2",
+406,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,8/8,M01.060.406
+406,MMI,3.42,Related personal status,C0445223,[fndg],"[""Related""-tx-1-""Related""-adj-0]",TX,0/7,
+406,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,45/5,
+407,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,8/8,M01.060.406
+407,MMI,3.42,Related personal status,C0445223,[fndg],"[""Related""-tx-1-""Related""-adj-0]",TX,0/7,
+407,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,44/5,
+408,MMI,5.18,Relationships,C0439849,[qlco],"[""Relationships""-tx-1-""RELATIONSHIP""-noun-0]",TX,0/12,
+411,MMI,3.57,per year,C0439508,[tmco],"[""per year""-tx-1-""YEAR""-noun-0]",TX,12/4,
+411,MMI,3.39,Resident (physician),C1320928,[prog],"[""Resident physician""-tx-1-""RESIDENCE""-noun-0]",TX,0/9,
+414,MMI,5.18,Russian language,C0035967,[lang],"[""Russian language""-tx-1-""Russian""-adj-0]",TX,0/7,
+415,MMI,3.60,Selling occupation,C0402546,[ocdi],"[""Selling occupation""-tx-1-""Sales occupations""-noun-0]",TX,"0/5,17/11",
+415,MMI,3.44,Office,C0442603,[mnob],"[""Office""-tx-1-""office""-noun-0]",TX,10/6,
+416,MMI,3.48,Same,C0445247,[qlco],"[""Same""-tx-1-""Same""-adj-0]",TX,0/4,
+417,MMI,3.64,House (environment),C2003847,[mnob],"[""House (environment)""-tx-1-""house""-noun-0]",TX,5/5,
+417,MMI,3.48,Same,C0445247,[qlco],"[""Same""-tx-1-""Same""-adj-0]",TX,0/4,
+418,MMI,3.48,Same,C0445247,[qlco],"[""Same""-tx-1-""Same""-adj-0]",TX,0/4,
+419,MMI,3.64,Geographic state,C1301808,[geoa],"[""State""-tx-1-""state""-noun-0]",TX,5/5,
+419,MMI,3.48,Same,C0445247,[qlco],"[""Same""-tx-1-""Same""-adj-0]",TX,0/4,
+420,MMI,5.18,Samoan race,C1556103,[popg],"[""Samoan""-tx-1-""Samoan""-noun-0]",TX,0/6,
+421,MMI,6.60,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""School""-noun-0]",TX,0/6,I02.783;J03.832
+421,MMI,6.56,Elements,C0013879,[elii],"[""Element, NOS""-tx-1-""Elementary""-noun-0]",TX,17/10,D01.268
+422,MMI,6.67,"Schools, Secondary",C0036530,"[mnob,orgt]","[""Secondary school""-tx-1-""School Secondary""-noun-0]",TX,"0/6,17/9",I02.783;J03.832
+423,MMI,6.74,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""School""-noun-0]",TX,0/6,I02.783;J03.832
+424,MMI,6.63,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""SCHOOL""-noun-0]",TX,0/6,I02.783;J03.832
+432,MMI,19.22,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""HOUSING""-adj-0]",TX,9/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+433,AA,SMOCAPI,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME,1,7,19,64,66:7,
+433,MMI,3.56,Household income,C0557163,[fndg],"[""Household income""-tx-1-""HOUSEHOLD INCOME""-noun-0]",TX,48/16,
+433,MMI,3.54,Monthly (qualifier value),C0332177,[tmco],"[""Monthly (qualifier value)""-tx-1-""MONTHLY""-adv-0]",TX,9/7,
+433,MMI,3.54,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""PERCENTAGE""-noun-0]",TX,34/10,
+434,AA,SMOC,SELECTED MONTHLY OWNER COSTS,1,4,7,28,30:4,
+434,MMI,3.57,Monthly (qualifier value),C0332177,[tmco],"[""Monthly (qualifier value)""-tx-1-""MONTHLY""-adv-0]",TX,9/7,
+435,MMI,16.07,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""PUERTO RICO""-noun-0]",TX,35/11,Z01.107.084.900.750;Z01.639.880.750
+436,MMI,12.91,United States,C0041703,[geoa],"[""United States of America""-tx-1-""UNITED STATES""-noun-0]",TX,39/13,Z01.107.567.875
+437,MMI,22.34,Acute Chest Syndrome,C0742343,[dsyn],"[""Acute chest syndrome""-tx-1-""ACS""-noun-0]",TX,167/3,C08.381.074;C08.618.009;C15.378.071.141.150.150.219;C15.378.420.155.219;C16.320.070.150.219;C16.320.365.155.219
+437,MMI,19.18,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""HOUSING""-adj-0]",TX,143/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+437,MMI,16.03,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""PUERTO RICO""-noun-0]",TX,88/11,Z01.107.084.900.750;Z01.639.880.750
+437,MMI,12.88,United States,C0041703,[geoa],"[""United States of America""-tx-1-""UNITED STATES""-noun-0]",TX,39/13,Z01.107.567.875
+437,MMI,3.41,Estimated,C0750572,[qnco],"[""Estimated""-tx-1-""ESTIMATES""-noun-0]",TX,195/9,
+438,MMI,3.57,Self-employed,C0425092,[fndg],"[""Self-employed""-tx-1-""Self-employed""-adj-1]",TX,0/13,
+438,MMI,3.42,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,47/7,
+439,MMI,5.18,Separate,C0443299,[qlco],"[""Separate""-tx-1-""Separated""-verb-0]",TX,0/9,
+440,MMI,5.18,Service Occupation,C0402735,[ocdi],"[""Service occupations NOS""-tx-1-""Service occupations""-noun-0]",TX,0/19,
+441,MMI,16.21,Gender,C0079399,[orga],"[""Gender""-tx-1-""SEX""-noun-0]",TX,0/3,F01.393.446.250;F01.752.747.385.200;F01.752.747.722.200;F02.739.794.793.200
+441,MMI,3.45,Age,C0001779,[orga],"[""Age""-tx-1-""AGE""-noun-0]",TX,8/3,
+442,MMI,3.55,Groups,C0441833,[idcn],"[""Groups""-tx-1-""grouping""-adj-0]",TX,13/8,
+442,MMI,3.45,Dakota Language,C0574595,[lang],"[""Dakota language""-tx-1-""Sioux""-noun-0]",TX,0/5,
+445,MMI,5.18,Slovak,C0337822,[popg],"[""Slovak""-tx-1-""Slovak""-noun-0]",TX,0/6,
+446,MMI,20.95,Sunlight,C0038817,[npop],"[""Sunlight""-tx-1-""Solar energy""-noun-0]",TX,0/12,G01.358.500.505.650.836;G01.750.250.650.836;G01.750.770.578.836;G16.500.275.063.725.525;G16.500.750.775.525;N06.230.300.100.725.525
+447,MMI,3.57,College,C0557806,[mnob],"[""College""-tx-1-""college""-noun-0]",TX,5/7,
+447,MMI,3.44,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""degree""-noun-0]",TX,17/6,
+448,MMI,3.59,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""race""-noun-0]",TX,11/4,
+449,MMI,3.57,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""race""-noun-0]",TX,11/4,
+449,MMI,3.57,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,16/5,
+450,MMI,14.64,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""Spanish""-noun-0]",TX,0/7,M01.686.754.441
+451,MMI,3.59,Very good,C3641222,[qlco],"[""Very good""-tx-1-""very well""-adv-0]",TX,25/9,
+451,MMI,3.55,Does speak,C0600116,[fndg],"[""Does speak""-tx-1-""Speak""-verb-0]",TX,0/5,
+451,MMI,3.55,English race,C1556083,[popg],"[""English""-tx-1-""English""-noun-0]",TX,6/7,
+452,MMI,20.95,spouse,C0162409,[famg],"[""Spouse""-tx-1-""Spouse""-noun-0]",TX,0/6,F01.829.263.500.660;I01.880.853.150.500.670;M01.816
+453,MMI,5.18,Geographic state,C1301808,[geoa],"[""State""-tx-1-""STATE""-noun-0]",TX,0/5,
+454,MMI,3.64,Geographic state,C1301808,[geoa],"[""State""-tx-1-""State""-noun-0]",TX,0/5,
+455,MMI,3.56,Chamber (physical object),C0179874,[mnob],"[""Chamber (physical object)""-tx-1-""Chamber""-noun-0]",TX,34/7,
+455,MMI,3.56,Geographic state,C1301808,[geoa],"[""State""-tx-1-""State""-verb-0]",TX,0/5,
+455,MMI,3.56,Lower - spatial qualifier,C0441994,[spco],"[""Lower""-tx-1-""Lower""-adj-0]",TX,28/5,
+456,MMI,3.56,Chamber (physical object),C0179874,[mnob],"[""Chamber (physical object)""-tx-1-""Chamber""-noun-0]",TX,34/7,
+456,MMI,3.56,Geographic state,C1301808,[geoa],"[""State""-tx-1-""State""-verb-0]",TX,0/5,
+456,MMI,3.56,Upper,C1282910,[spco],"[""Upper""-tx-1-""Upper""-adj-0]",TX,28/5,
+457,MMI,3.59,Geographic state,C1301808,[geoa],"[""State""-tx-1-""State""-noun-0]",TX,0/5,
+457,MMI,3.41,Resident (physician),C1320928,[prog],"[""Resident physician""-tx-1-""residence""-noun-0]",TX,9/9,
+459,MMI,6.59,Minor (person),C0026193,[popg],"[""Minor (person)""-tx-1-""Minor""-adj-0]",TX,4/5,M01.416
+459,MMI,3.56,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""Division""-noun-0]",TX,16/8,
+459,MMI,3.43,Substance amount,C1264637,[qnco],"[""Substance amount""-tx-1-""Sub""-noun-0]",TX,0/3,
+460,MMI,3.64,African race,C0027567,[popg],"[""African race""-tx-1-""African""-noun-0]",TX,11/7,
+462,MMI,3.45,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""Level""-noun-0]",TX,8/5,
+464,MMI,5.18,Swiss,C0241315,[popg],"[""Swiss""-tx-1-""Swiss""-noun-0]",TX,0/5,
+465,MMI,6.72,geographic population,C0032659,[qnco],"[""Population""-tx-1-""Population""-noun-0]",TX,36/10,N01.600
+465,MMI,3.44,Total,C0439810,[qlco],"[""Total""-tx-1-""Total""-adj-0]",TX,0/5,
+466,MMI,3.48,Total,C0439810,[qlco],"[""Total""-tx-1-""Total""-adj-0]",TX,0/5,
+467,MMI,19.22,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""housing""-adj-0]",TX,6/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+467,MMI,3.59,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,14/5,
+467,MMI,3.45,Total,C0439810,[qlco],"[""Total""-tx-1-""Total""-adj-0]",TX,0/5,
+468,MMI,6.79,geographic population,C0032659,[qnco],"[""Population""-tx-1-""population""-noun-0]",TX,6/10,N01.600
+468,MMI,3.48,Total,C0439810,[qlco],"[""Total""-tx-1-""Total""-adj-0]",TX,0/5,
+470,MMI,3.43,Utilities (organization),C0582205,[orgt],"[""Utilities""-tx-1-""utilities""-noun-0]",TX,36/9,
+473,MMI,3.57,Two,C0205448,[qnco],"[""Two""-tx-1-""Two""-noun-0]",TX,0/3,
+473,MMI,3.44,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""races""-verb-0]",TX,12/5,
+474,MMI,3.42,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""races""-noun-0]",TX,4/5,
+474,MMI,3.42,Three,C0205449,[qnco],"[""Three""-tx-1-""Three""-word_numeral-0]",TX,41/5,
+474,MMI,3.42,Two,C0205448,[qnco],"[""Two""-tx-1-""Two""-adj-0]",TX,0/3,
+474,MMI,3.40,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-verb-0]",TX,10/9,
+475,MMI,3.55,Racial group,C0034510,[popg],"[""Racial group""-tx-1-""races""-noun-0]",TX,4/5,
+475,MMI,3.43,Two,C0205448,[qnco],"[""Two""-tx-1-""Two""-adj-0]",TX,0/3,
+475,MMI,3.41,Including (qualifier),C0332257,[ftcn],"[""Including""-tx-1-""including""-verb-0]",TX,10/9,
+476,MMI,17.80,Urinalysis,C0042014,[lbpr],"[""Urinalysis""-tx-1-""UA""-noun-0]",TX,0/2,E01.370.225.124.810;E01.370.390.810;E05.200.124.810
+478,MMI,5.18,Ukrainian,C4518572,[popg],"[""Ukrainian""-tx-1-""Ukrainian""-adj-0]",TX,0/9,
+479,MMI,3.59,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,9/5,
+480,MMI,3.59,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,8/5,
+480,MMI,3.45,>5,C0439084,[qnco],"["">5""-tx-1-""5""-integer-0]",TX,6/1,
+481,MMI,14.64,Unemployment,C0041674,[fndg],"[""Unemployment""-tx-1-""Unemployed""-adj-0]",TX,0/10,N01.824.245.850
+482,MMI,12.94,Unemployment,C0041674,[fndg],"[""Unemployment""-tx-1-""Unemployment""-noun-0]",TX,0/12,N01.824.245.850
+483,MMI,3.43,Identifier,C0600091,[inpr],"[""Identifier""-tx-1-""Identifier""-noun-0]",TX,25/10,
+483,MMI,3.43,Uniform - quality,C0205375,[qlco],"[""Uniform""-tx-1-""Uniform""-adj-0]",TX,0/7,
+484,MMI,14.64,United States,C0041703,[geoa],"[""United States of America""-tx-1-""United States""-noun-0]",TX,0/13,Z01.107.567.875
+485,MMI,3.59,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""UNITS""-noun-0]",TX,0/5,
+486,MMI,22.57,Unmarried person,C0037179,[popg],"[""Single person""-tx-1-""Unmarried""-adj-0]",TX,0/9,F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+486,MMI,3.48,Partner in relationship,C0682323,[famg],"[""Partner in relationship""-tx-1-""partner""-verb-0]",TX,10/7,
+487,MMI,22.37,Never Married,C0027952,[fndg],"[""Never married""-tx-1-""never married""-adj-0]",TX,40/13,F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+487,MMI,22.35,Unmarried person,C0037179,[popg],"[""Single person""-tx-1-""Unmarried""-adj-0]",TX,0/9,F01.829.263.315.500.725;I01.240.361.500.725;I01.880.853.150.423.500.725;M01.785;N01.224.361.500.725;N01.824.308.500.725
+487,MMI,22.35,Widowhood,C0206275,[fndg],"[""Widowhood""-tx-1-""widowed""-adj-0]",TX,17/7,F01.829.263.315.500.862;I01.240.361.500.862;I01.880.853.150.423.500.862;N01.224.361.500.862;N01.824.308.500.862
+487,MMI,6.70,Woman,C0043210,[popg],"[""Woman""-tx-1-""women""-noun-0]",TX,10/5,M01.975
+487,MMI,3.42,Divorced state,C0086170,[fndg],"[""Divorced state""-tx-1-""divorced""-adv-0]",TX,26/8,
+488,MMI,12.91,Family,C0015576,[famg],"[""Family""-tx-1-""family""-noun-0]",TX,7/6,F01.829.263;I01.880.853.150
+488,MMI,3.59,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""workers""-noun-0]",TX,14/7,
+489,MMI,3.55,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,25/5,
+489,MMI,3.43,Unrelated (finding),C0445356,[fndg],"[""Unrelated (finding)""-tx-1-""Unrelated""-adj-0]",TX,0/9,
+489,MMI,3.41,Individual,C0237401,[popg],"[""Individual""-tx-1-""individuals""-noun-0]",TX,10/11,
+490,MMI,3.64,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,6/4,
+490,MMI,3.48,Urban environment,C0442529,[geoa],"[""Urban environment""-tx-1-""Urban""-adj-0]",TX,0/5,
+492,MMI,14.64,United States,C0041703,[geoa],"[""United States of America""-tx-1-""U.""-adj-0]",TX,"0/1,1/1",Z01.107.567.875
+492,MMI,3.64,Status,C0449438,[qlco],"[""Status""-tx-2-""STATUS""-noun-0]",TX,17/6,
+493,MMI,6.79,Gases,C0017110,[chvs],"[""Gas, NOS""-tx-1-""gas""-noun-0]",TX,8/3,D01.362
+493,MMI,3.48,Utilities (organization),C0582205,[orgt],"[""Utilities""-tx-1-""Utility""-noun-0]",TX,0/7,
+494,MMI,19.22,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""housing""-adj-0]",TX,7/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
+494,MMI,3.59,Unit of Measure,C1519795,[qnco],"[""Unit of measure""-tx-1-""units""-noun-0]",TX,15/5,
+496,MMI,3.64,Drug vehicle,C0042444,[bodm],"[""Drug vehicle""-tx-1-""VEHICLES""-noun-0]",TX,0/8,
+496,MMI,3.48,Availability of,C0470187,[ftcn],"[""Availability of""-tx-1-""AVAILABLE""-adj-0]",TX,9/9,
+497,MMI,3.64,Status,C0449438,[qlco],"[""Status""-tx-1-""STATUS""-noun-0]",TX,8/6,
+498,MMI,5.18,Vietnamese language,C0042660,[lang],"[""Vietnamese language""-tx-1-""Vietnamese""-noun-0]",TX,0/10,
+499,MMI,19.75,Walking (activity),C0080331,[dora],"[""Walking, NOS""-tx-1-""Walked""-adj-0]",TX,0/6,G11.427.410.568.900;G11.427.410.698.277.937;I03.350.937;I03.450.642.845.940
+500,MMI,5.18,Welsh population,C0043114,[popg],"[""Welsh""-tx-1-""Welsh""-noun-0]",TX,0/5,
+501,MMI,12.89,Hispanics,C0086409,[popg],"[""Hispanic""-tx-1-""Hispanic""-adj-0]",TX,23/8,M01.686.754.441
+501,MMI,3.62,West Indian origin,C0425364,[fndg],"[""West Indian origin""-tx-1-""West Indian origin""-noun-0]",TX,"0/11,32/6",
+501,MMI,3.43,Groups,C0441833,[idcn],"[""Groups""-tx-1-""groups""-noun-0]",TX,39/6,
+501,MMI,3.41,Exclude,C0332196,[ftcn],"[""Exclude""-tx-1-""excluding""-verb-0]",TX,13/9,
+502,MMI,14.64,Caucasoid Race,C0007457,[popg],"[""Caucasoid race""-tx-1-""White""-noun-0]",TX,0/5,M01.686.508.400
+503,MMI,12.94,Caucasoid Race,C0007457,[popg],"[""Caucasoid race""-tx-1-""White""-adj-0]",TX,0/5,M01.686.508.400
+503,MMI,3.64,Singular,C0205171,[qnco],"[""Singular""-tx-1-""alone""-adj-0]",TX,6/5,
+504,MMI,19.19,Alaska,C0001905,[geoa],"[""Alaska""-tx-1-""Alaska""-adj-0]",TX,30/6,Z01.107.567.875.580.100
+504,MMI,16.06,American Indians,C0002460,[popg],"[""American Indian""-tx-1-""American Indian""-noun-0]",TX,10/15,M01.686.508.150.600
+504,MMI,13.01,Caucasoid Race,C0007457,[popg],"[""Caucasoid race""-tx-1-""White""-noun-0]",TX,0/5,M01.686.508.400
+504,MMI,3.42,Native (qualifier value),C0302891,[ftcn],"[""Native (qualifier value)""-tx-1-""Native""-adj-0]",TX,37/6,
+505,MMI,12.91,Asians,C0078988,[popg],"[""Oriental""-tx-1-""Asian""-adj-0]",TX,10/5,M01.686.508.200
+505,MMI,3.59,Caucasians,C0043157,[popg],"[""Caucasian""-tx-1-""White""-noun-0]",TX,0/5,
+506,MMI,16.09,African American,C0085756,[popg],"[""African American""-tx-1-""Black African American""-noun-0]",TX,"10/5,19/16",M01.686.508.100.100;M01.686.754.100
+506,MMI,3.55,Caucasians,C0043157,[popg],"[""Caucasian""-tx-1-""White""-noun-0]",TX,0/5,
+507,MMI,6.74,Woman,C0043210,[popg],"[""Woman""-tx-1-""female""-noun-0]",TX,8/6,M01.975
+508,MMI,3.59,Married (finding),C0555047,[fndg],"[""Married (finding)""-tx-1-""married""-verb-0]",TX,8/7,
+510,MMI,24.11,Widowhood,C0206275,[fndg],"[""Widowhood""-tx-1-""Widowed""-adj-0]",TX,0/7,F01.829.263.315.500.862;I01.240.361.500.862;I01.880.853.150.423.500.862;N01.224.361.500.862;N01.824.308.500.862
+512,MMI,13.05,Computers,C0009622,[mnob],"[""Computer""-tx-1-""computer""-noun-0]",TX,7/8,L01.224.230.260
+513,MMI,3.59,Disability,C0231170,[fndg],"[""Disability""-tx-1-""disability""-noun-0]",TX,7/10,
+514,MMI,9.87,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,28/6,N01.824.417
+514,MMI,3.43,Assisted (qualifier value),C1269765,[qlco],"[""Assisted (qualifier value)""-tx-1-""assistance""-noun-0]",TX,17/10,
+516,MMI,9.73,Food,C0016452,[food],"[""Foods""-tx-1-""Food""-noun-0]",TX,5/4,G07.203.300;J02.500
+516,MMI,3.42,In the past,C1444637,[tmco],"[""In the past""-tx-1-""past""-noun-0]",TX,37/4,
+516,MMI,3.42,month,C0439231,[tmco],"[""month""-tx-1-""months""-noun-0]",TX,45/6,
+517,MMI,6.59,Health,C0018684,[idcn],"[""Health""-tx-1-""health""-noun-0]",TX,5/6,N01.400
+518,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,9/8,M01.060.406
+518,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,46/5,
+519,MMI,6.72,Health,C0018684,[idcn],"[""Health""-tx-1-""health""-noun-0]",TX,13/6,N01.400
+519,MMI,3.57,United States Military enlisted E1,C4521534,[clas],"[""United States Military enlisted E1""-tx-1-""private""-noun-0]",TX,5/7,
+521,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""children""-noun-0]",TX,13/8,M01.060.406
+521,MMI,3.42,Related personal status,C0445223,[fndg],"[""Related""-tx-1-""related""-adj-0]",TX,5/7,
+521,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,50/5,
+522,MMI,19.33,Is an only child,C0029039,[famg],"[""Is an only child""-tx-1-""children only""-noun-0]",TX,"13/8,55/4",F01.829.263.500.280;I01.880.853.150.500.280
+522,MMI,3.42,Related personal status,C0445223,[fndg],"[""Related""-tx-1-""related""-adj-0]",TX,5/7,
+522,MMI,3.42,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,49/5,
+523,MMI,9.90,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,16/6,N01.824.417
+523,MMI,6.60,Retirement,C0035345,[fndg],"[""Retirement""-tx-1-""retirement""-noun-0]",TX,5/10,I03.702
+525,MMI,12.97,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,5/12,G07.203.300.456;J02.500.456
+525,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""Income""-noun-0]",TX,27/6,N01.824.417
+526,MMI,14.64,Wood material,C0043217,[sbst],"[""Wood, NOS""-tx-1-""Wood""-verb-0]",TX,0/4,A18.450.500.500;J01.637.241.900
+527,MMI,3.65,Works at home,C0557392,[fndg],"[""Works at home""-tx-1-""Worked home""-adj-0]",TX,"0/6,10/4",
+528,MMI,3.56,year,C0439234,[tmco],"[""year""-tx-1-""years""-noun-0]",TX,11/5,
+528,MMI,3.43,Worker,C1306056,[ocdi],"[""Worker""-tx-1-""Workers""-noun-0]",TX,0/7,
+529,MMI,16.04,Childbirth,C1148523,[orgf],"[""Childbirth""-tx-1-""BORN""-adj-0]",TX,33/4,G08.686.784.769.490
+529,MMI,3.53,Genital region,C0446509,[blor],"[""Genital region""-tx-1-""REGION BIRTH""-noun-0]",TX,"6/6,16/5",
+530,MMI,3.43,International Unit,C0439453,[qnco],"[""international unit""-tx-1-""UNIT""-noun-0]",TX,28/4,
+530,MMI,3.43,per year,C0439508,[tmco],"[""per year""-tx-1-""YEAR""-noun-0]",TX,0/4,
+530,MMI,3.41,Does move,C0578671,[fndg],"[""Does move""-tx-1-""MOVED""-verb-0]",TX,17/5,
+531,MMI,3.59,per year,C0439508,[tmco],"[""per year""-tx-1-""YEAR""-noun-0]",TX,0/4,
+532,MMI,3.57,year,C0439234,[tmco],"[""year""-tx-1-""Years""-noun-0]",TX,0/5,
+532,MMI,3.44,Responsible to,C1273518,[fndg],"[""Responsible to""-tx-1-""responsible""-adj-0]",TX,6/11,
+532,MMI,3.44,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""grandchildren""-noun-0]",TX,22/13,
+533,MMI,3.45,per year,C0439508,[tmco],"[""per year""-tx-1-""YEAR""-noun-0]",TX,0/4,
+535,MMI,3.55,Area,C0205146,[spco],"[""Area""-tx-1-""Area""-noun-0]",TX,20/4,
+535,MMI,3.43,Digit structure,C0582802,[bpoc],"[""Digit structure""-tx-1-""Digit""-noun-0]",TX,31/5,
+535,MMI,3.43,Five,C0205451,[qnco],"[""Five""-tx-1-""Five""-word_numeral-0]",TX,26/4,

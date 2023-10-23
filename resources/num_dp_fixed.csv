@@ -1,0 +1,534 @@
+2,"$100,000 to $149,999"
+3,"$10,000 to $14,999"
+4,"$1,000 or more"
+5,"$1,000 to $1,499"
+6,1.00 or less
+7,10.0 to 14.9 percent
+8,1.01 to 1.50
+9,10 to 14 years
+10,10 to 19 units
+11,"$150,000 to $199,999"
+12,"$15,000 to $24,999"
+13,"$1,500 to $1,999"
+14,15.0 to 19.9 percent
+15,1.51 or more
+16,15 to 19 years
+17,18 to 64 years
+18,18 years and over
+19,1 bedroom
+20,1 or 2 years
+21,1 room
+22,"1-unit, attached"
+23,"1-unit, detached"
+24,1 vehicle available
+25,"$200,000 or more"
+26,"$200,000 to $299,999"
+27,"$2,000 to $2,499"
+28,20.0 to 24.9 percent
+29,20 or more units
+30,20 to 24 years
+31,21 years and over
+32,"$25,000 to $34,999"
+33,"$2,500 to $2,999"
+34,25.0 to 29.9 percent
+35,$250 to $399
+36,25 to 34 years
+37,2 bedrooms
+38,2 rooms
+39,2 units
+40,2 vehicles available
+41,"$300,000 to $499,999"
+42,"$3,000 or more"
+43,30.0 to 34.9 percent
+44,"$35,000 to $49,999"
+45,35.0 percent or more
+46,35 to 44 years
+47,3 bedrooms
+48,3 or 4 units
+49,3 or 4 years
+50,3 or more vehicles available
+51,3 rooms
+52,$400 to $599
+53,45 to 54 years
+54,4 bedrooms
+55,4 rooms
+56,"$500,000 to $999,999"
+57,"$50,000 to $74,999"
+58,"$50,000 to $99,999"
+59,$500 to $999
+60,55 to 59 years
+61,5 or more bedrooms
+62,5 or more years
+63,5 rooms
+64,5 to 9 units
+65,5 to 9 years
+66,$600 to $799
+67,60 to 64 years
+68,62 years and over
+69,65 to 74 years
+70,65 years and over
+71,6 rooms
+72,"$75,000 to $99,999"
+73,75 to 84 years
+74,7 rooms
+75,$800 to $999
+76,85 years and over
+77,8 rooms
+78,9 rooms or more
+79,"9th to 12th grade, no diploma"
+80,Abroad
+81,ACS DEMOGRAPHIC AND HOUSING ESTIMATES
+82,Africa
+83,"Agriculture, forestry, fishing and hunting, and mining"
+84,AIANHH
+85,AIHHTLI
+86,AITSCE
+87,Alaska Native Regional Corporation
+88,All families
+89,All parents in family in labor force
+90,All people
+91,American
+92,American Indian and Alaska Native
+93,American Indian and Alaska Native alone
+94,American Indian Area/Alaska Native Area/Hawaiian Home Land
+95,American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land
+96,American Indian Tribal Subdivision (Census)
+97,ANCESTRY
+98,ANRC
+99,Arab
+100,Armed Forces
+101,"Arts, entertainment, and recreation, and accommodation and food services"
+102,Asia
+103,Asian
+104,Asian alone
+105,Asian and Pacific Islander languages
+106,Asian Indian
+107,Associate's degree
+108,Average family size
+109,Average household size
+110,Average household size of owner-occupied unit
+111,Average household size of renter-occupied unit
+112,Bachelor's degree
+113,BEDROOMS
+114,Black or African American
+115,Black or African American alone
+116,Black or African American and American Indian and Alaska Native
+117,"Boat, RV, van, etc."
+118,Born in Puerto Rico or the United States
+119,"Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)"
+120,Born in United States
+121,"Born in U.S. Island Areas, or born abroad of American parents"
+122,"Bottled, tank, or LP gas"
+123,Built 1939 or earlier
+124,Built 1940 to 1949
+125,Built 1950 to 1959
+126,Built 1960 to 1969
+127,Built 1970 to 1979
+128,Built 1980 to 1989
+129,Built 1990 to 1999
+130,Built 2000 to 2009
+131,Built 2010 to 2013
+132,Built 2014 or later
+133,"Car, truck, or van -- carpooled"
+134,"Car, truck, or van -- drove alone"
+135,CBSA
+136,CD114
+137,Census API FIPS 'for' clause
+138,Census API FIPS 'in' clause
+139,Census API Geography Specification
+140,Census Division
+141,Census Region
+142,Census Tract
+143,Cherokee tribal grouping
+144,Child
+145,Chinese
+146,Chippewa tribal grouping
+147,"Citizen, 18 and over population"
+148,"CITIZEN, VOTING AGE POPULATION"
+149,Civilian employed population 16 years and over
+150,Civilian labor force
+151,Civilian noninstitutionalized population
+152,Civilian noninstitutionalized population 18 to 64 years
+153,Civilian noninstitutionalized population under 18 years
+154,Civilian population 18 years and over
+155,Civilian veterans
+156,CLASS OF WORKER
+157,CNECTA
+158,Coal or coke
+159,College or graduate school
+160,Combined New England City and Town Area
+161,Combined Statistical Area
+162,COMMUTING TO WORK
+163,COMPUTERS AND INTERNET USE
+164,concept
+165,CONCIT
+166,Congressional District (114th) 
+167,Consolidated City
+168,Construction
+169,COUNTY
+170,County (FIPS)
+171,County Subdivision (FIPS)
+172,COUSUB
+173,CSA
+174,Cuban
+175,Czech
+176,Danish
+177,Different county
+178,Different house in Puerto Rico or the U.S.
+179,Different house in the U.S.
+180,Different municipio
+181,Different state
+182,DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION
+183,DIVISION
+184,Divorced
+185,Dutch
+186,EDUCATIONAL ATTAINMENT
+187,"Educational services, and health care and social assistance"
+188,Electricity
+189,Elementary school (grades 1-8)
+190,Elsewhere
+191,Employed
+192,EMPLOYMENT STATUS
+193,English
+194,English only
+195,Entered 2010 or later
+196,Entered before 2010
+197,Estimate
+198,Europe
+199,Families
+200,"Families with female householder, no husband present"
+201,Family households (families)
+202,Female
+203,"Female householder, no husband present, family"
+204,Females 15 years and over
+205,Females 16 years and over
+206,FERTILITY
+207,Filipino
+208,"Finance and insurance, and real estate and rental and leasing"
+209,for
+210,Foreign born
+211,Foreign-born population
+212,"Foreign-born population, excluding population born at sea"
+213,French Canadian
+214,French (except Basque)
+215,"Fuel oil, kerosene, etc."
+216,GEOCOMP
+217,Geographic Component code
+218,Geographic variant 
+219,Geography
+220,GEO_ID
+221,GEOVARIANT
+222,German
+223,Government workers
+224,Graduate or professional degree
+225,GRANDPARENTS
+226,Grandparents responsible for grandchildren
+227,Greek
+228,GROSS RENT
+229,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI)
+230,Guamanian or Chamorro
+231,HEALTH INSURANCE COVERAGE
+232,High school (grades 9-12)
+233,High school graduate (includes equivalency)
+234,HISPANIC OR LATINO AND RACE
+235,Hispanic or Latino (of any race)
+236,Homeowner vacancy rate
+237,HOUSE HEATING FUEL
+238,Householder
+239,Householder living alone
+240,HOUSEHOLDS BY TYPE
+241,Households with one or more people 65 years and over
+242,Households with one or more people under 18 years
+243,HOUSING OCCUPANCY
+244,HOUSING TENURE
+245,Housing units with a mortgage
+246,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed)
+247,Housing units without a mortgage
+248,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed)
+249,Hungarian
+250,in
+251,INCOME AND BENEFITS (IN 2015 INFLATION-ADJUSTED DOLLARS)
+252,INDUSTRY
+253,Information
+254,In labor force
+255,In Puerto Rico
+256,In the United States
+257,Irish
+258,Italian
+259,Japanese
+260,Kindergarten
+261,Korean
+262,label
+263,Lacking complete kitchen facilities
+264,Lacking complete plumbing facilities
+265,Language other than English
+266,LANGUAGE SPOKEN AT HOME
+267,Latin America
+268,Legal/Statistical Area Description name
+269,"Less than $10,000"
+270,Less than 10.0 percent
+271,Less than 15.0 percent
+272,Less than 1 year
+273,Less than 20.0 percent
+274,Less than $250
+275,Less than $500
+276,"Less than $50,000"
+277,Less than 9th grade
+278,Lithuanian
+279,LSAD_NAME
+280,Male
+281,"Male householder, no wife present, family"
+282,Males 15 years and over
+283,"Management, business, science, and arts occupations"
+284,Manufacturing
+285,MARITAL STATUS
+286,Married couple families
+287,Married-couple family
+288,Mean cash public assistance income (dollars)
+289,Mean earnings (dollars)
+290,Mean family income (dollars)
+291,Mean household income (dollars)
+292,Mean nonfamily income (dollars)
+293,Mean retirement income (dollars)
+294,Mean Social Security income (dollars)
+295,Mean Supplemental Security Income (dollars)
+296,Mean travel time to work (minutes)
+297,Median age (years)
+298,Median (dollars)
+299,"Median earnings for female full-time, year-round workers (dollars)"
+300,"Median earnings for male full-time, year-round workers (dollars)"
+301,Median earnings for workers (dollars)
+302,Median family income (dollars)
+303,Median household income (dollars)
+304,Median nonfamily income (dollars)
+305,Median rooms
+306,METDIV
+307,Metropolitan Division
+308,Metropolitan Statistical Area/Micropolitan Statistical Area
+309,Mexican
+310,Mobile home
+311,MORTGAGE STATUS
+312,Moved in 1979 and earlier
+313,Moved in 1980 to 1989
+314,Moved in 1990 to 1999
+315,Moved in 2000 to 2009
+316,Moved in 2010 to 2014
+317,Moved in 2015 or later
+318,name
+319,Native
+320,Native Hawaiian
+321,Native Hawaiian and Other Pacific Islander
+322,Native Hawaiian and Other Pacific Islander alone
+323,Naturalized U.S. citizen
+324,"Natural resources, construction, and maintenance occupations"
+325,Navajo tribal grouping
+326,NECTA
+327,NECTADIV
+328,Never married
+329,New England City and Town Area
+330,New England City and Town Division
+331,No bedroom
+332,No fuel used
+333,No health insurance coverage
+334,Nonfamily households
+335,Nonrelatives
+336,No rent paid
+337,Northern America
+338,Norwegian
+339,Not a U.S. citizen
+340,Not computed
+341,No telephone service available
+342,Not Hispanic or Latino
+343,Not in labor force
+344,No vehicles available
+345,"Now married, except separated"
+346,Number of grandparents living with own grandchildren under 18 years
+347,Number of grandparents responsible for own grandchildren under 18 years
+348,Number of women 15 to 50 years old who had a birth in the past 12 months
+349,"Nursery school, preschool"
+350,OCCUPANTS PER ROOM
+351,OCCUPATION
+352,Occupied housing units
+353,Occupied units paying rent
+354,Occupied units paying rent (excluding units where GRAPI cannot be computed)
+355,Oceania
+356,One race
+357,Other Asian
+358,Other fuel
+359,Other Hispanic or Latino
+360,Other Indo-European languages
+361,Other languages
+362,Other means
+363,Other Pacific Islander
+364,Other relatives
+365,"Other services, except public administration"
+366,Own children of the householder 6 to 17 years
+367,Own children of the householder under 6 years
+368,Owner-occupied
+369,Owner-occupied units
+370,People in families
+371,"Per 1,000 unmarried women"
+372,"Per 1,000 women 15 to 19 years old"
+373,"Per 1,000 women 15 to 50 years old"
+374,"Per 1,000 women 20 to 34 years old"
+375,"Per 1,000 women 35 to 50 years old"
+376,Per capita income (dollars)
+377,Percent
+378,PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL
+379,Percent bachelor's degree or higher
+380,Percent high school graduate or higher
+381,PLACE
+382,Place (FIPS) 
+383,PLACE OF BIRTH
+384,Polish
+385,Population 16 years and over
+386,Population 1 year and over
+387,Population 25 years and over
+388,Population 3 years and over enrolled in school
+389,Population 5 years and over
+390,Population born outside Puerto Rico
+391,Population born outside the United States
+392,Population in households
+393,Portuguese
+394,Private wage and salary workers
+395,"Production, transportation, and material moving occupations"
+396,"Professional, scientific, and management, and administrative and waste management services"
+397,Public administration
+398,Public transportation (excluding taxicab)
+399,Public Use Microdata Area ? 5%
+400,Puerto Rican
+401,PUMA5
+402,RACE
+403,Race alone or in combination with one or more other races
+404,REGION
+405,Related children of the householder 5 to 17 years
+406,Related children of the householder under 18 years
+407,Related children of the householder under 5 years
+408,RELATIONSHIP
+409,Rental vacancy rate
+410,Renter-occupied
+411,RESIDENCE 1 YEAR AGO
+412,Retail trade
+413,ROOMS
+414,Russian
+415,Sales and office occupations
+416,Same county
+417,Same house
+418,Same municipio
+419,Same state
+420,Samoan
+421,"School District, Elementary     "
+422,"School District, Secondary"
+423,"School District, Unified"
+424,SCHOOL ENROLLMENT
+425,Scotch-Irish
+426,Scottish
+427,SDELM
+428,SDSEC
+429,SDUNI
+430,SELECTED CHARACTERISTICS
+431,SELECTED ECONOMIC CHARACTERISTICS
+432,SELECTED HOUSING CHARACTERISTICS
+433,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI)
+434,SELECTED MONTHLY OWNER COSTS (SMOC)
+435,SELECTED SOCIAL CHARACTERISTICS IN PUERTO RICO
+436,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES
+437,SELECTED SOCIAL CHARACTERISTICS IN THE UNITED STATES;SELECTED SOCIAL CHARACTERISTICS IN PUERTO RICO;SELECTED ECONOMIC CHARACTERISTICS;SELECTED HOUSING CHARACTERISTICS;ACS DEMOGRAPHIC AND HOUSING ESTIMATES
+438,Self-employed in own not incorporated business workers
+439,Separated
+440,Service occupations
+441,SEX AND AGE
+442,Sioux tribal grouping
+443,SLDL
+444,SLDU
+445,Slovak
+446,Solar energy
+447,"Some college, no degree"
+448,Some other race
+449,Some other race alone
+450,Spanish
+451,"Speak English less than ""very well"""
+452,Spouse
+453,STATE
+454,State (FIPS)
+455,State Legislative District (Lower Chamber)
+456,State Legislative District (Upper Chamber)
+457,State of residence
+458,SUBMCD
+459,Sub-Minor Civil Division (FIPS)
+460,Subsaharan African
+461,SUMLEVEL
+462,Summary Level code
+463,Swedish
+464,Swiss
+465,Total Civilian Noninstitutionalized Population
+466,Total households
+467,Total housing units
+468,Total population
+469,TRACT
+470,"Transportation and warehousing, and utilities"
+471,Tribal Census Tract
+472,TTRACT
+473,Two or more races
+474,"Two races excluding Some other race, and Three or more races"
+475,Two races including Some other race
+476,UA
+477,ucgid
+478,Ukrainian
+479,Under 18 years
+480,Under 5 years
+481,Unemployed
+482,Unemployment Rate
+483,Uniform Census Geography Identifier clause
+484,United States
+485,UNITS IN STRUCTURE
+486,Unmarried partner
+487,"Unmarried women (widowed, divorced, and never married)"
+488,Unpaid family workers
+489,Unrelated individuals 15 years and over
+490,Urban Area
+491,US
+492,U.S. CITIZENSHIP STATUS
+493,Utility gas
+494,Vacant housing units
+495,VALUE
+496,VEHICLES AVAILABLE
+497,VETERAN STATUS
+498,Vietnamese
+499,Walked
+500,Welsh
+501,West Indian (excluding Hispanic origin groups)
+502,White
+503,White alone
+504,White and American Indian and Alaska Native
+505,White and Asian
+506,White and Black or African American
+507,Who are female
+508,Who are married
+509,Wholesale trade
+510,Widowed
+511,With a broadband Internet subscription
+512,With a computer
+513,With a disability
+514,With cash public assistance income
+515,With earnings
+516,With Food Stamp/SNAP benefits in the past 12 months
+517,With health insurance coverage
+518,With own children of the householder under 18 years
+519,With private health insurance
+520,With public coverage
+521,With related children of the householder under 18 years
+522,With related children of the householder under 5 years only
+523,With retirement income
+524,With Social Security
+525,With Supplemental Security Income
+526,Wood
+527,Worked at home
+528,Workers 16 years and over
+529,WORLD REGION OF BIRTH OF FOREIGN BORN
+530,YEAR HOUSEHOLDER MOVED INTO UNIT
+531,YEAR OF ENTRY
+532,Years responsible for grandchildren
+533,YEAR STRUCTURE BUILT
+534,ZCTA5
+535,Zip Code Tabulation Area (Five-Digit)
