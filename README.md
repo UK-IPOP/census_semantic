@@ -19,6 +19,7 @@ A tool that selects relevant US Census variables based on user-supplied free-tex
     ```
 The script prints a JSON object with the variable names as the top-level keys. The values are objects with keys "label" and "name". "name" is the column name that will be used for the returned data. An example invocation:
 ```
+$ python select_vars.py work
 {
   "DP03_0094E": {
     "label": "Median earnings for female full-time, year-round workers (dollars)",
