@@ -687,11 +687,9 @@
 423,MMI,6.74,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""School""-noun-0]",TX,0/6,I02.783;J03.832
 424,MMI,6.63,School,C0036375,"[mnob,orgt]","[""School""-tx-1-""SCHOOL""-noun-0]",TX,0/6,I02.783;J03.832
 432,MMI,19.22,Housing,C0020056,[mnob],"[""Housing NOS""-tx-1-""HOUSING""-adj-0]",TX,9/7,J03.340;N01.224.791.400;N06.230.150.360;N06.850.505.400.800.400
-433,AA,SMOCAPI,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME,1,7,19,64,66:7,
 433,MMI,3.56,Household income,C0557163,[fndg],"[""Household income""-tx-1-""HOUSEHOLD INCOME""-noun-0]",TX,48/16,
 433,MMI,3.54,Monthly (qualifier value),C0332177,[tmco],"[""Monthly (qualifier value)""-tx-1-""MONTHLY""-adv-0]",TX,9/7,
 433,MMI,3.54,Percent (qualifier value),C0439165,[qnco],"[""%""-tx-1-""PERCENTAGE""-noun-0]",TX,34/10,
-434,AA,SMOC,SELECTED MONTHLY OWNER COSTS,1,4,7,28,30:4,
 434,MMI,3.57,Monthly (qualifier value),C0332177,[tmco],"[""Monthly (qualifier value)""-tx-1-""MONTHLY""-adv-0]",TX,9/7,
 435,MMI,16.07,Puerto Rico,C0034044,[geoa],"[""Puerto Rico""-tx-1-""PUERTO RICO""-noun-0]",TX,35/11,Z01.107.084.900.750;Z01.639.880.750
 436,MMI,12.91,United States,C0041703,[geoa],"[""United States of America""-tx-1-""UNITED STATES""-noun-0]",TX,39/13,Z01.107.567.875

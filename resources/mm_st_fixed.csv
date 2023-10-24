@@ -573,7 +573,6 @@
 318,MMI,16.05,Poverty,C0032854,[grpa],"[""Poverty""-tx-1-""poverty status""-noun-0]",TX,32/14,I01.880.735.634;I01.880.853.996.535;N01.824.600
 318,MMI,9.85,Child,C0008059,[aggp],"[""Child""-tx-1-""Children""-noun-0]",TX,0/8,M01.060.406
 318,MMI,3.42,Determined by,C0521095,[qlco],"[""Determined by""-tx-1-""determined""-verb-0]",TX,50/10,
-319,AA,SSI,Supplemental Security Income,1,3,5,28,65:3,
 319,MMI,12.84,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,35/12,G07.203.300.456;J02.500.456
 319,MMI,9.72,Food,C0016452,[food],"[""Foods""-tx-1-""Food""-noun-0]",TX,105/4,G07.203.300;J02.500
 319,MMI,3.53,Child benefit,C0425006,[fndg],"[""Child benefit""-tx-1-""Children benefits""-noun-0]",TX,"0/8,121/8",
@@ -937,7 +936,6 @@
 474,MMI,9.74,Occupations,C0028811,[ocdi],"[""Occupations""-tx-1-""occupations""-noun-0]",TX,37/11,N01.824.547
 474,MMI,3.49,Prepared,C4082130,[fndg],"[""Prepared""-tx-1-""preparation""-noun-0]",TX,5/11,
 474,MMI,3.43,Relationships,C0439849,[qlco],"[""Relationships""-tx-1-""related""-adj-0]",TX,29/7,
-475,AA,SNAP,STAMPS/Supplemental Nutrition Assistance Program,1,4,9,48,55:4,
 475,MMI,13.05,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental Nutrition""-noun-0]",TX,12/22,G07.203.300.456;J02.500.456
 475,MMI,9.74,Food,C0016452,[food],"[""Foods""-tx-1-""FOOD""-noun-0]",TX,0/4,G07.203.300;J02.500
 475,MMI,3.55,Assisted (qualifier value),C1269765,[qlco],"[""Assisted (qualifier value)""-tx-1-""Assistance""-noun-0]",TX,35/10,
@@ -1038,7 +1036,6 @@
 517,MMI,3.59,Graduate (person),C0588053,[popg],"[""Graduate (person)""-tx-1-""Graduate""-noun-0]",TX,0/8,
 518,MMI,5.18,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""Grandchild""-noun-0]",TX,0/10,
 519,MMI,3.48,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""GRANDCHILDREN""-noun-0]",TX,0/13,
-520,AA,SSI,Supplemental Security Income,1,3,5,28,70:3,
 520,MMI,12.84,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,40/12,G07.203.300.456;J02.500.456
 520,MMI,9.72,Food,C0016452,[food],"[""Foods""-tx-1-""Food""-noun-0]",TX,110/4,G07.203.300;J02.500
 520,MMI,3.53,grandchild,C0337548,[famg],"[""Grandchild""-tx-1-""Grandchildren""-noun-0]",TX,0/13,
@@ -2463,7 +2460,6 @@
 1109,MMI,3.56,Transection (procedure),C0152060,[topp],"[""Transection (procedure)""-tx-1-""Division""-noun-0]",TX,16/8,
 1109,MMI,3.43,Substance amount,C1264637,[qnco],"[""Substance amount""-tx-1-""Sub""-noun-0]",TX,0/3,
 1112,MMI,3.45,Levels (qualifier value),C0441889,[qlco],"[""Levels (qualifier value)""-tx-1-""Level""-noun-0]",TX,8/5,
-1113,AA,SSI,Supplemental Security Income,1,3,5,28,30:3,
 1113,MMI,12.94,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,0/12,G07.203.300.456;J02.500.456
 1113,MMI,9.84,Income,C0021162,[qnco],"[""Income""-tx-1-""Income""-noun-0]",TX,22/6,N01.824.417
 1113,MMI,3.42,Assisted (qualifier value),C1269765,[qlco],"[""Assisted (qualifier value)""-tx-1-""assistance""-noun-0]",TX,54/10,
@@ -2687,7 +2683,6 @@
 1232,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""income""-noun-0]",TX,21/6,N01.824.417
 1233,MMI,12.97,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,5/12,G07.203.300.456;J02.500.456
 1233,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""Income""-noun-0]",TX,27/6,N01.824.417
-1234,AA,SSI,Supplemental Security Income,1,3,5,28,35:3,
 1234,MMI,12.97,Dietary Supplements,C0242295,[food],"[""Nutrient supplementation""-tx-1-""Supplemental""-noun-0]",TX,5/12,G07.203.300.456;J02.500.456
 1234,MMI,9.88,Income,C0021162,[qnco],"[""Income""-tx-1-""Income""-noun-0]",TX,27/6,N01.824.417
 1235,MMI,12.91,Telephone,C0039457,[mnob],"[""Telephone""-tx-1-""telephone""-noun-0]",TX,5/9,L01.178.847.698
