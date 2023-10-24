@@ -19,8 +19,40 @@ A tool that selects relevant US Census variables based on user-supplied free-tex
     ```
 The script prints a JSON object with the variable names as the top-level keys. The values are objects with keys "label" and "name". "name" is the column name that will be used for the returned data. An example invocation:
 ```
-$python select_vars.py work
-{"DP03_0094E": {"label": "Median earnings for female full-time, year-round workers (dollars)", "name": "DP03_0094E"}, "DP03_0092E": {"label": "Median earnings for workers (dollars)", "name": "DP03_0092E"}, "DP03_0093E": {"label": "Median earnings for male full-time, year-round workers (dollars)", "name": "DP03_0093E"}, "DP03_0025E": {"label": "Mean travel time to work (minutes)", "name": "DP03_0025E"}, "DP03_0048E": {"label": "Government workers", "name": "DP03_0048E"}, "DP03_0047E": {"label": "Private wage and salary workers", "name": "DP03_0047E"}, "DP03_0050E": {"label": "Unpaid family workers", "name": "DP03_0050E"}, "DP03_0049E": {"label": "Self-employed in own not incorporated business workers", "name": "DP03_0049E"}}
+{
+  "DP03_0094E": {
+    "label": "Median earnings for female full-time, year-round workers (dollars)",
+    "name": "DP03_0094E"
+  },
+  "DP03_0092E": {
+    "label": "Median earnings for workers (dollars)",
+    "name": "DP03_0092E"
+  },
+  "DP03_0093E": {
+    "label": "Median earnings for male full-time, year-round workers (dollars)",
+    "name": "DP03_0093E"
+  },
+  "DP03_0025E": {
+    "label": "Mean travel time to work (minutes)",
+    "name": "DP03_0025E"
+  },
+  "DP03_0048E": {
+    "label": "Government workers",
+    "name": "DP03_0048E"
+  },
+  "DP03_0047E": {
+    "label": "Private wage and salary workers",
+    "name": "DP03_0047E"
+  },
+  "DP03_0050E": {
+    "label": "Unpaid family workers",
+    "name": "DP03_0050E"
+  },
+  "DP03_0049E": {
+    "label": "Self-employed in own not incorporated business workers",
+    "name": "DP03_0049E"
+  }
+}
  ```
 The intent is that this tool will help remap variable names when desired. By default, the names as retrieved from the census API are used.
 ## Citation
