@@ -2,24 +2,27 @@
 A tool that selects relevant US Census variables based on user-supplied free-text search terms. Multiple terms may be provided. Better documentation to come.
 
 ## Requirements
-- US Census API key - freely available by request. See [The census API documentation.](https://www.census.gov/data/developers/data-sets.html)
-- Python 3 recent enough to work with the following required packages:
+- Python 3 and the following packages:
     - duckdb
     - censusdata
     - us
     - python-dotenv
-- County and state FIPS codes you're interested in
+- Census data API key, see [The census API documentation.](https://www.census.gov/data/developers/data-sets.html)
 
 ## Basic usage
 1. Request a Census API key if you don't already have one
 2. Download this repo and extract locally
 3. Create a file in the repo directory/same directory as the Python scripts called ".env" with a valid census API key and some query parameters. The included example_env.txt could be used as a template. In that case, fill in your values and rename the file to ".env"
-4. Select and download census data using "select_vars.py":
+4. Select census variables to download using "select_vars.py":
     ```
     python select_vars.py pattern [,pattern]*
     ```
-Currently the script writes any hits to STDOUT.
- 
+The script prints a JSON object with the variable names as the top-level keys. The values are objects with keys "label" and "name". "name" is the column name that will be used for the returned data. An example invocation:
+```
+$python select_vars.py work
+{"DP03_0094E": {"label": "Median earnings for female full-time, year-round workers (dollars)", "name": "DP03_0094E"}, "DP03_0092E": {"label": "Median earnings for workers (dollars)", "name": "DP03_0092E"}, "DP03_0093E": {"label": "Median earnings for male full-time, year-round workers (dollars)", "name": "DP03_0093E"}, "DP03_0025E": {"label": "Mean travel time to work (minutes)", "name": "DP03_0025E"}, "DP03_0048E": {"label": "Government workers", "name": "DP03_0048E"}, "DP03_0047E": {"label": "Private wage and salary workers", "name": "DP03_0047E"}, "DP03_0050E": {"label": "Unpaid family workers", "name": "DP03_0050E"}, "DP03_0049E": {"label": "Self-employed in own not incorporated business workers", "name": "DP03_0049E"}}
+ ```
+The intent is that this tool will help remap variable names when desired. By default, the names as retrieved from the census API are used.
 ## Citation
 If you make use of this tool in your work, please use the following citation:
 
