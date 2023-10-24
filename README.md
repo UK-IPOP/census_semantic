@@ -7,7 +7,7 @@ A tool that selects relevant US Census variables based on user-supplied free-tex
     - duckdb
     - censusdata
     - us
-    - dotenv
+    - python-dotenv
 - County and state FIPS codes you're interested in
 
 ## Basic usage
